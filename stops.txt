@@ -1,0 +1,966 @@
+stop_id,stop_code,Stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+7014,7014,Sj Cnty Hospital,,37.88663,-121.280972,,,,,,0
+3073,3073,El Dorado & Hospital Rd Fs/Nb,,37.886086,-121.276264,,,,,,0
+3074,3074,El Dorado & French Camp Ns/Nb,,37.889301,-121.276301,,,,,,0
+3075,3075,El Dorado & 4554 El Dorado Mb/Nb,EL DORADO ST & 5544 EL DORADO ST,37.897407,-121.275684,,,,,,0
+3076,3076,El Dorado & Western Lumber Mb/Nb,EL DORADO ST & WESTERN LUMBER,37.907322,-121.275597,,,,,,0
+3077,3077,Clayton & Harvey Ns/Wb,,37.910995,-121.277245,,,,,,0
+7026,7026,Clayton & Odell Ns Wb,,37.910281,-121.27992,,,,,,0
+3079,3079,Downing & Mourfield Fs/Eb,DOWNING AVE & MOURFIELD AVE,37.913892,-121.283933,,,,,,0
+3080,3080,Odell & Horton Fs/Nb,,37.921401,-121.284826,,,,,,0
+3082,3082,Mosswood & El Dorado Ns/Nb,,37.924283,-121.281523,,,,,,0
+3083,3083,El Dorado & Ninth St Fs/Nb,,37.92699,-121.28185,,,,,,0
+3119,3119,8th St & San Joaquin Fs/Wb,,37.929248,-121.280954,,,,,,0
+3085,3085,San Joaquin St & 6th Ns/Nb,,37.932058,-121.281378,,,,,,0
+3086,3086,San Joaquin St & 4th Fs/ Nb,,37.934526,-121.282033,,,,,,0
+3087,3087,San Joaquin St & 2nd Ns/Nb,,37.936747,-121.282631,,,,,,0
+7027,7027,San Joaquin St & Clay St Fs Nb,,37.940493,-121.283668,,,,,,0
+3088,3088,San Joaquin St & Anderson Ns/Nb,,37.943143,-121.284383,,,,,,0
+3090,3090,San Joaquin St & Hazelton Fs/Nb,,37.947491,-121.285539,,,,,,0
+3091,3091,Alvarado & Alpine Fs/Nb,,37.983732,-121.289608,,,,,,0
+3092,3092,Alvarado & Fulton Ns/Nb,,37.985467,-121.290332,,,,,,0
+3093,3093,Fulton @ 517 Fulton Mb/Wb,,37.984782,-121.294067,,,,,,0
+3094,3094,Fulton & Sutter Ns/Wb,,37.984118,-121.296698,,,,,,0
+3095,3095,Essex St & Sutter Fs/Wb,,37.988153,-121.298553,,,,,,0
+7028,7028,Essex St & El Dorado Ns Wb,,37.98732,-121.3019,,,,,,0
+3096,3096,Jamestown & Shelley Fs/Eb,,37.993757,-121.303603,,,,,,0
+3100,3100,Claremont & Gold Run  Ns/Nb,,37.991856,-121.30608,,,,,,0
+3101,3101,Claremont & Pardee Ns/Nb,,37.993525,-121.308054,,,,,,0
+3448,3448,Pacific Av & Longview Av Fs/Sb,,38.002996,-121.317522,,,,,,0
+3840,3840,Pacific Av & Swain Fs Nb,,38.00489,-121.31798,,,,,,0
+7067,7067,Pacific Av & Benjamin Holt Fs Sb,,38.009947,-121.320345,,,,,,0
+3842,3842,Pacific Av & Lincoln Ns Nb,,38.01354,-121.32145,,,,,,0
+3733,3733,Thornton Rd & Hammer Fs Nb,,38.02143,-121.325392,,,,,,0
+3463,3463,Ponce De Leon & Lower Sac Ns/Wb,PONCE DE LEON & LOWER SACRAMENTO RD,38.030031,-121.321596,,,,,,0
+3334,3334,Yokuts & El Dorado Fs/Wb,W YOKUTS AV & N EL DORADO STREET FRONTAGE RD W,37.998541,-121.306697,,,,,,0
+3471,3471,El Dorado & St. Marys High Mb/Nb,,38.004591,-121.307393,,,,,,0
+3456,3456,Inglewood Av & Benjamin Holt Ns/Nb,,38.011785,-121.317412,,,,,,0
+3459,3459,El Dorado & Mission Park Ns/Nb,,38.01945,-121.315188,,,,,,0
+3461,3461,El Dorado & Martinique Ns/Nb,,38.028902,-121.316163,,,,,,0
+3462,3462,Ponce De Leon & Antoino Fs/Wb,PONCE DE LEON AVE & ANTONIO WY,38.03015,-121.319039,,,,,,0
+3466,3466,Ponce De Leon & Graywood Ns/Eb,,38.029577,-121.326824,,,,,,0
+3477,3477,Hickock Dr & Pawnee Fs/Nb,,38.0382,-121.335917,,,,,,0
+3478,3478,Hickock Dr & Cheyenne Ns/Nb,,38.040072,-121.335013,,,,,,0
+3485,3485,Davis Rd & Laramie Dr Ns/Sb,,38.038433,-121.331975,,,,,,0
+3488,3488,El Dorado & Los Feliz Ns/Sb,,38.032541,-121.317616,,,,,,0
+3490,3490,El Dorado & Glencannon Fs/Sb,,38.026434,-121.316388,,,,,,0
+7120,7120,El Dorado & Mission Park Fs Sb,,38.019133,-121.315361,,,,,,0
+3492,3492,El Dorado & Lincoln Ns/Sb,,38.016671,-121.312761,,,,,,0
+3455,3455,Inglewood Av & Glendora Av Fs/Nb,,38.008449,-121.315753,,,,,,0
+3512,3512,El Dorado & Swain Fs/Sb,,38.006881,-121.308528,,,,,,0
+3470,3470,Yokuts Ave & El Dorado St Ns/Eb,,37.998383,-121.307002,,,,,,0
+3851,3851,Pacific Av & Willora Ns Sb,,38.015675,-121.322571,,,,,,0
+3823,3823,Pacific Av & Lincoln Road Fs Sb,PACIFIC AVE & LINCOLN RD,38.01348,-121.32177,,,,,,0
+7065,7065,Pacific Av & Benjamin Holt Fs Nb,,38.011366,-121.320595,,,,,,0
+3884,3884,Pacific Av & Douglas Fs Sb,,38.008251,-121.319512,,,,,,0
+3885,3885,Pacific Av & Swain Ns Sb,,38.00478,-121.31829,,,,,,0
+3104,3104,El Dorado & Jamestown Fs/Sb,,37.992562,-121.304516,,,,,,0
+3106,3106,Sutter & Fulton Ns/Sb,,37.984509,-121.296907,,,,,,0
+3107,3107,Fulton @ 571 Fulton Mb/Eb,,37.984658,-121.294308,,,,,,0
+3108,3108,Fulton & Stanislaus Fs/Eb,,37.9852,-121.292162,,,,,,0
+3109,3109,Alvarado & Oak Park Mb/Sb,,37.984553,-121.290062,,,,,,0
+3110,3110,Alvarado & Alpine Ns/Sb,,37.983352,-121.289573,,,,,,0
+3111,3111,California St & Walnut Fs/Sb,,37.96984,-121.28914,,,,,,0
+3112,3112,San Joaquin St & Lafayette Ns/Sb,,37.95037,-121.28658,,,,,,0
+3113,3113,San Joaquin St & Hazelton Ns/Sb,,37.94756,-121.28579,,,,,,0
+7029,7029,San Joaquin St & Taylor St Ns Nb,,37.945007,-121.284897,,,,,,0
+3114,3114,San Joaquin St & Anderson Ns/Sb,,37.943415,-121.28464,,,,,,0
+3115,3115,San Joaquin St & Jackson Fs/Sb,,37.940883,-121.283953,,,,,,0
+7033,7033,San Joaquin St & Charter Fs Sb,,37.939127,-121.283465,,,,,,0
+3116,3116,San Joaquin St & 2nd Ns/Sb,,37.936953,-121.282847,,,,,,0
+3117,3117,San Joaquin St & 4th Fs/Sb,,37.934142,-121.28206,,,,,,0
+3118,3118,San Joaquin St & 6th Ns/Sb,,37.931982,-121.281502,,,,,,0
+3120,3120,El Dorado & 9th Ns/Sb,,37.92727,-121.28213,,,,,,0
+3121,3121,El Dorado & Mosswood Ns/Sb,,37.924771,-121.281236,,,,,,0
+3122,3122,Mosswood & Commerce Fs/Eb,,37.924027,-121.282772,,,,,,0
+3123,3123,Odell & Mosswood Fs/Sb,,37.923163,-121.28554,,,,,,0
+3124,3124,Odell & Horton Fs/Sb,,37.920739,-121.284557,,,,,,0
+3125,3125,Odell & Ivy Ns/Sb,,37.917872,-121.283367,,,,,,0
+7034,7034,Clayton & Odell Fs Eb,,37.910166,-121.279981,,,,,,0
+3130,3130,El Dorado & French Camp Ns/Sb,,37.890754,-121.276473,,,,,,0
+3131,3131,Hospital Rd & El Dorado St Fs/Wb,,37.885884,-121.277148,,,,,,0
+3869,3869,Carolyn Weston & E.W.S. Woods Fs Wb,CAROLYN WESTON BLVD & E.W.S. WOODS BLVD,37.911649,-121.305656,,,,,,0
+3855,3855,Church St & San Jose St Ns Eb,,37.945161,-121.303904,,,,,,0
+7037,7037,Lincoln St & Weber Ns Nb,LINCOLN ST & WEBER AVE,37.951764,-121.297627,,,,,,0
+3698,3698,Market & Airport  Way Fs Eb,MARKET ST & AIRPORT WY,37.954374,-121.273603,,,,,,0
+3699,3699,Market & Della Ns Eb,,37.955188,-121.268845,,,,,,0
+3700,3700,Main & Laurel Ns Eb,MAIN ST & LAUREL ST,37.955322,-121.262582,,,,,,0
+3701,3701,Main & So Court Fs Eb,,37.955166,-121.259558,,,,,,0
+3702,3702,Main & Marsh Ns Eb,,37.955056,-121.257318,,,,,,0
+3704,3704,Main & Golden Gate Fs Eb,,37.954372,-121.244129,,,,,,0
+3705,3705,Main & Netherton Ns Eb,,37.954292,-121.242383,,,,,,0
+3706,3706,Main & Anteros Fs Eb,,37.954025,-121.23725,,,,,,0
+3707,3707,Oro & Horner Ns Nb,,37.957611,-121.235774,,,,,,0
+3708,3708,Oro & Washington Ns Nb,,37.962275,-121.237571,,,,,,0
+3684,3684,Main & Netherton Ns Wb,,37.95444,-121.242115,,,,,,0
+3685,3685,Main & Golden Gate Fs Wb,,37.954577,-121.244971,,,,,,0
+7149,7149,Main & Filbert Fs Wb,,37.954937,-121.25227,,,,,,0
+3687,3687,Main & E Street  Fs Wb,,37.955187,-121.257029,,,,,,0
+3689,3689,Main & Lafayette Fs Wb,,37.955387,-121.261158,,,,,,0
+3690,3690,Main & Della Ns Wb,,37.955764,-121.26855,,,,,,0
+3691,3691,Main & Sierra Nevada Fs Wb,,37.955582,-121.272885,,,,,,0
+3861,3861,Weber & Tuleburg Ave Wb,,37.952927,-121.2951,,,,,,0
+3863,3863,Church St & San Jose St Ns Wb,,37.945292,-121.303561,,,,,,0
+3854,3854,Church St & Pershing Fs Eb,CHURCH ST & PERSHING AVE,37.944965,-121.307765,,,,,,0
+7248,7248,Los Angeles & Sonora Ns Sb,,37.943064,-121.314774,,,,,,0
+3608,3608,Stanislaus & Weber Fs Sb,,37.954832,-121.282284,,,,,,0
+7042,7042,Country Club Blvd & Pershing Fs Wb,,37.96945,-121.3155,,,,,,0
+3339,3339,Wilson Wy & Park (Eastland Plz.) Fs/Nb,,37.963128,-121.273471,,,,,,0
+3340,3340,Wilson Wy & Poplar St Ns/Nb,,37.964545,-121.273876,,,,,,0
+3341,3341,Wilson Wy & Roosevelt St Ns/Nb,,37.967161,-121.274542,,,,,,0
+7088,7088,Wilson Wy & Harding Wy Fs Nb,,37.971237,-121.275664,,,,,,0
+3345,3345,Funston Av & Orwood St Ns Nb,,37.976442,-121.273658,,,,,,0
+3346,3346,Funston Av & Sanguinetti Ln Ns/Eb,,37.981371,-121.270873,,,,,,0
+3349,3349,Filbert St & Waterloo Fs/Sb,,37.97635,-121.261253,,,,,,0
+3351,3351,Golden Gate  & John St Ns/Nb,,37.977001,-121.255247,,,,,,0
+3352,3352,Waterloo Rd & Sunset Av Fs/Wb,,37.978837,-121.259203,,,,,,0
+3365,3365,Funston Av & Orwood Ns/Sb,,37.976926,-121.273524,,,,,,0
+3344,3344,Funston Av & Bradford St Fs/Nb,,37.974534,-121.27446,,,,,,0
+3343,3343,Bradford St & Wilson  Fs/Eb,,37.97387,-121.27579,,,,,,0
+7097,7097,Wilson Wy & Harding Fs Sb,,37.970607,-121.275602,,,,,,0
+3367,3367,Wilson Wy & Acacia Fs/Sb,,37.965528,-121.274268,,,,,,0
+3368,3368,Wilson Wy & Oak Ns/Sb,,37.961928,-121.273309,,,,,,0
+3338,3338,Stanislaus & Miner Ns/Nb,,37.95686,-121.28263,,,,,,0
+7054,7054,Country Club Blvd & Pershing Ns Eb,,37.96922,-121.3157,,,,,,0
+7128,7128,8th St & B Street Fs Eb,"8TH ST & ""B"" ST",37.933943,-121.254904,,,,,,0
+3550,3550,Stanislaus & Lafayette Ns/Nb,,37.95103,-121.28106,,,,,,0
+3552,3552,Stanislaus & Main Ns/Nb,,37.953718,-121.281797,,,,,,0
+3555,3555,El Dorado & Fremont Fsnb,,37.95775,-121.291091,,,,,,0
+3558,3558,El Dorado & Acacia Fs/Nb,,37.96295,-121.292498,,,,,,0
+3559,3559,El Dorado & Willow Ns/Nb,,37.966376,-121.293425,,,,,,0
+7130,7130,El Dorado & Sperry Fs Nb,,37.968502,-121.294125,,,,,,0
+3561,3561,El Dorado & Adams Fs/Nb,,37.974059,-121.296522,,,,,,0
+3563,3563,El Dorado & Alpine Fs/Nb,,37.980562,-121.299424,,,,,,0
+3564,3564,El Dorado & Fulton Ns/Nb,EL DORADO ST & FULTON ST,37.983193,-121.300488,,,,,,0
+3598,3598,El Dorado & Churchill Fs Sb,,37.985891,-121.30171,,,,,,0
+3567,3567,El Dorado & Swain Fs/Nb,,38.007532,-121.308567,,,,,,0
+3569,3569,El Dorado & Benjamin Holt Ns Nb,,38.01177,-121.30866,,,,,,0
+3570,3570,El Dorado & Lincoln Fs Nb,,38.016719,-121.312244,,,,,,0
+4031,4031,Hammer Ln & Lan Ark Dr Fs Wb,,38.021039,-121.309852,,,,,,0
+3574,3574,Knickerbocker & Palisades Fs Eb,,38.023242,-121.298376,,,,,,0
+7131,7131,Knickerbocker & West Lane Fs Eb,,38.024206,-121.294388,,,,,,0
+3576,3576,Bordeaux & Moulin Ns Eb,,38.024029,-121.2908,,,,,,0
+3577,3577,Bordeaux & Chateau Fs Eb,,38.024056,-121.289017,,,,,,0
+3579,3579,Bordeaux & Burgundy Ns Eb,,38.024206,-121.283888,,,,,,0
+3580,3580,Burgundy & Cherbourg Ns Nb,,38.025397,-121.283367,,,,,,0
+7132,7132,Cherbourg & Pyreness Fs Nb,,38.028139,-121.285315,,,,,,0
+3581,3581,Cherbourg & Sandalwood Ns Nb,,38.032141,-121.285502,,,,,,0
+3589,3589,West Lane @ Christian Center Nb,,38.029987,-121.29529,,,,,,0
+7133,7133,Prospector & Tamoshanter Ns Wb,PROSPECTOR DR & TAM O'SHANTER DR,38.032162,-121.300408,,,,,,0
+4030,4030,Hammer Ln & Tam O`shanter Fs Wb,,38.020956,-121.300573,,,,,,0
+3572,3572,Iris Ave & Lan Ark Ns Eb,,38.021933,-121.309635,,,,,,0
+3596,3596,El Dorado & Benjamin Holt Fs Sb,,38.0113,-121.30892,,,,,,0
+3599,3599,El Dorado & Fulton Fs Sb,,37.982936,-121.300564,,,,,,0
+3601,3601,El Dorado & Noble Ns Sb,,37.976169,-121.297871,,,,,,0
+3602,3602,El Dorado & Castle Ns Sb,,37.974319,-121.296956,,,,,,0
+7134,7134,Center St & Harding Fs Sb,,37.967063,-121.295151,,,,,,0
+3603,3603,Center St & Acacia Fs Sb,,37.962532,-121.29391,,,,,,0
+3604,3604,Center St & Flora Sb Ns,,37.960568,-121.293369,,,,,,0
+3610,3610,Stanislaus & Lafayette Fs Sb,,37.950854,-121.281195,,,,,,0
+3611,3611,Stanislaus & Worth Ns Sb,,37.94518,-121.27967,,,,,,0
+3545,3545,Airport Wy & 6th Ns/Nb,,37.93459,-121.26794,,,,,,0
+7135,7135,Ralph & Airport Fs Eb,RALPH AVE & AIRPORT WY,37.920206,-121.261321,,,,,,0
+3617,3617,Ralph & Anne Ns Eb,,37.92113,-121.257756,,,,,,0
+3619,3619,B & Ralph Fs Nb,,37.9233,-121.25103,,,,,,0
+3406,3406,8th St & Laguna Circle Ns/Eb,,37.926561,-121.306527,,,,,,0
+7104,7104,8th St & Argonaut Fs Wb,,37.926719,-121.303213,,,,,,0
+7015,7015,Manthey & 8th Ns Nb,,37.925507,-121.295463,,,,,,0
+3134,3134,8th St & Harrison Ns/Eb,,37.927249,-121.291931,,,,,,0
+3135,3135,Lincoln St & 7th Fs/Nb,,37.928526,-121.290379,,,,,,0
+3136,3136,Lincoln St & Kohler Ns/Nb,,37.930922,-121.291678,,,,,,0
+3137,3137,Lincoln St & 4th Ns/Nb,,37.932163,-121.292086,,,,,,0
+3138,3138,Lincoln St & French Camp Tpk Nbns,,37.934574,-121.292908,,,,,,0
+7035,7035,Lincoln St & Charter Fs Nb,,37.937813,-121.293825,,,,,,0
+3139,3139,Lincoln St & Jackson Fs/Nb,,37.939416,-121.294277,,,,,,0
+3411,3411,Pacific Av & Robinhood Dr Ns/Nb,,38.00042,-121.31613,,,,,,0
+7106,7106,Swain Rd & Pershing Fs Wb,SWAIN & PERSHING FS WB,38.00221,-121.32811,,,,,,0
+3767,3767,Pershing Av & Buckingham Ns Nb,PERSHING & BUCKINGHAM NS NB,37.999975,-121.326013,,,,,,0
+3502,3502,Swain Rd &  Halleck Ns/Wb,,38.000541,-121.355172,,,,,,0
+3503,3503,Cumberland & Swain Fs/Nb,,37.999984,-121.358151,,,,,,0
+3504,3504,Cumberland & S. Monitor Cir Ns/Nb,CUMBERLAND PL & MONITOR CI S,38.001327,-121.359537,,,,,,0
+3505,3505,Cumberland & Harpers Ferry Fs/Nb,,38.003382,-121.360989,,,,,,0
+3449,3449,Mill Springs & Cumberland Fs/ Eb,,38.008335,-121.362852,,,,,,0
+3452,3452,Ben Holt Dr & Grigsby Ns/Eb,BENJAMIN HOLT & GRIGSBY NS/EB,38.00477,-121.353188,,,,,,0
+3789,3789,Meadow & Parkwoods Ns Sb,Meadow & Parkwoods Ns Sb & PARKWOODS DR,38.016904,-121.341763,,,,,,0
+3790,3790,Meadow & Alexandria Ns Sb,,38.016125,-121.339583,,,,,,0
+3791,3791,Meadow & Larkspur Ns Sb,,38.015952,-121.335715,,,,,,0
+3792,3792,Meadow & Brentwood Ns Sb,,38.015983,-121.332126,,,,,,0
+3793,3793,Pershing & Lincoln Road Ns Sb,,38.013912,-121.329988,,,,,,0
+3605,3605,Center St & Fremont Ns Sb,,37.957689,-121.292573,,,,,,0
+3155,3155,Lincoln St & Jackson Ns/Sb,,37.939697,-121.294505,,,,,,0
+7039,7039,Lincoln St & Charter Fs Sb,,37.937217,-121.293849,,,,,,0
+3156,3156,Lincoln St & French Camp Fs/Sb,LINCOLN ST & FRENCH CAMP RD,37.934441,-121.293055,,,,,,0
+3158,3158,Lincoln St & Kohler Ns/Sb,,37.931313,-121.29192,,,,,,0
+3159,3159,Lincoln St & 8th Ns/Sb,,37.928008,-121.290326,,,,,,0
+3160,3160,8th St & French Camp Ns/Wb,,37.927188,-121.292657,,,,,,0
+3161,3161,Lever Blvd & Colorado Ns/Sb,,37.92411,-121.29866,,,,,,0
+3164,3164,Chicago Av & Alabama Ns/Eb,,37.92364,-121.294617,,,,,,0
+3407,3407,8th St & Argonaut St Fs/Eb,,37.926656,-121.302922,,,,,,0
+3399,3399,8th St & Capitola Circle Ent Fs/Wb,,37.926712,-121.307854,,,,,,0
+3400,3400,Dry Creek Wy & Diablo Creek Fs/Sb,,37.92552,-121.309008,,,,,,0
+3350,3350,Harding Wy & Rhode Island Ns/Eb,HARDING WY & RHODE ISLAND AVE,37.974276,-121.257637,,,,,,0
+3827,3827,Waterloo & Sycamore Ns Eb,,37.969269,-121.270775,,,,,,0
+3725,3725,Fremont St & Van Buren Ns Wb,FREMONT ST & VAN BUREN ST,37.956767,-121.297323,,,,,,0
+7061,7061,Fremont St & Pershing Av Fs Eb,,37.954256,-121.311465,,,,,,0
+7072,7072,Feather River & March Lane Ns Sb,,37.985668,-121.347589,,,,,,0
+4052,4052,Pershing Av & Marco Polo Fs Sb,,37.99219,-121.323281,,,,,,0
+4051,4051,Pershing Av & Venetian Fs Sb,PERSHING AVE & VENETIAN DR,37.995648,-121.324585,,,,,,0
+3622,3622,Kermit & Longview Ave Ns Nb,,38.007638,-121.302099,,,,,,0
+3636,3636,Kermit & Swain Fs Sb,,38.00837,-121.30257,,,,,,0
+3625,3625,Cordova Ln & Kermit Ln Fs Wb,,38.01629,-121.30397,,,,,,0
+3626,3626,Villa Dr & Cordova Ln Fs Nb,,38.01649,-121.30684,,,,,,0
+3627,3627,Villa Dr & Murillo Ns Nb,,38.017281,-121.307617,,,,,,0
+3631,3631,Villa Dr & Goya Dr Fs Sb,,38.01821,-121.30856,,,,,,0
+3629,3629,Los Molinas & Goya Fs Nb,,38.018667,-121.307055,,,,,,0
+7136,7136,Los Molinas & Prado Ns Nb,,38.020193,-121.307044,,,,,,0
+7166,7166,Hammer Ln & West Lane Frtg Fs Eb,,38.020747,-121.292165,,,,,,0
+3333,3333,Kentfield & Gateway  Mb/Nb,,37.997334,-121.303062,,,,,,0
+3309,3309,Tam O'SHANTER Dr @ the Pines Fs/Nb,,38.014061,-121.298192,,,,,,0
+3313,3313,Hammertown & Montauban Fs/Eb,,38.016492,-121.288435,,,,,,0
+3312,3312,Hammertown & West Lane Fs/Eb,,38.016523,-121.293352,,,,,,0
+7077,7077,Hammertown @ Kaiser Ent Fs Wb,HAMMERTOWN  DR & KAISER ENTRANCE,38.016645,-121.297117,,,,,,0
+3310,3310,Tam O'SHANTER Dr & Hammertown Ns/Nb,,38.015456,-121.298917,,,,,,0
+7080,7080,West Lane & March Lane Fs Sb,,38.001072,-121.290504,,,,,,0
+3330,3330,Bianchi Rd & Dorset Fs/Wb,,37.99453,-121.29865,,,,,,0
+3097,3097,Kentfield & Surrey Lane Fs/Nb,,37.99402,-121.30133,,,,,,0
+7168,7168,Hammer Ln & West Lane Fs Wb,,38.021116,-121.295424,,,,,,0
+3628,3628,Villa Dr & Goya Ns Nb,,38.01821,-121.30841,,,,,,0
+3632,3632,Villa Dr & Cordova Ln Ns Sb,,38.016387,-121.30696,,,,,,0
+3635,3635,Kermit & Kermit Ct Fs Sb,KERMIT LN & KERMIT CT,38.014795,-121.303633,,,,,,0
+3623,3623,Kermit & Swain Fs Nb,,38.00919,-121.30251,,,,,,0
+7167,7167,Hammer Ln & Lorraine Ave Ns Wb,,38.021179,-121.282491,,,,,,0
+7137,7137,Kermit & Benjamin Holt Ns Sb,,38.01224,-121.30317,,,,,,0
+3738,3738,Don Av & Waudman Ns Nb,,38.029736,-121.345439,,,,,,0
+3739,3739,Don Av & Shropshire Fs Nb,,38.032399,-121.345467,,,,,,0
+3759,3759,Wagner Heights & Don Fs Wb,,38.033793,-121.346467,,,,,,0
+3760,3760,Wagner Heights & Blue Fox Wb,,38.032492,-121.350285,,,,,,0
+3761,3761,Bainbridge & Wagner Heights Nb,BAINBRIDGE PL & WAGNER HEIGHTS RD,38.032205,-121.35558,,,,,,0
+3763,3763,Stanfield & Bismark Ns Wb,,38.034962,-121.358931,,,,,,0
+3764,3764,Stanfield & Kelley Ns Wb,,38.034074,-121.363818,,,,,,0
+3765,3765,Salters & Bancroft Ns Eb,,38.036849,-121.363661,,,,,,0
+3776,3776,Otto & Bismark Ns Eb,,38.037648,-121.35905,,,,,,0
+3777,3777,Otto & Ramsey  Fs Eb,,38.038152,-121.353772,,,,,,0
+3778,3778,Otto & Kardigan  Ns Eb,,38.037755,-121.351083,,,,,,0
+3779,3779,Otto & Brisbane Fs Eb,,38.037626,-121.348569,,,,,,0
+3782,3782,Lenox & Stanfield Fs Sb,,38.036465,-121.344967,,,,,,0
+3783,3783,Branstetter & Burlington Fs Sb,,38.036061,-121.346833,,,,,,0
+7009,7009,Pacific Av & Yokuts Arrive Fs Nb,,37.996681,-121.314823,,,,,,0
+7100,7100,Mlk Blvd & California St Ns Wb,,37.93989,-121.281212,,,,,,0
+3397,3397,Argonaut & Mlk Blvd Fs/Sb,,37.934911,-121.303036,,,,,,0
+3398,3398,Argonaut St & Irene St Ns/Sb,,37.930519,-121.303001,,,,,,0
+7138,7138,Section & Oro (Woody's)  Ns Eb,,37.9487,-121.232419,,,,,,0
+3640,3640,Section & Sinclair Ns Eb,SECTION AVE & SINCLAIR AVE,37.948652,-121.228536,,,,,,0
+7139,7139,Sinclair & 6th Ns Sb,,37.944457,-121.226707,,,,,,0
+3643,3643,Farmington & Mission Valley Ln Fswb,,37.939318,-121.238994,,,,,,0
+7140,7140,8th St & Nightingale Ns Wb,,37.937157,-121.244114,,,,,,0
+7786,7786,8th St & B Street Fs Wb,,37.933858,-121.255788,,,,,,0
+3649,3649,B & 6th Fs Nb,,37.937143,-121.256651,,,,,,0
+3650,3650,B & 4th Ns Nb,,37.93962,-121.25762,,,,,,0
+3651,3651,B & Mlk Blvd Ns Nb,,37.943124,-121.259101,,,,,,0
+3652,3652,Wilson Wy & Anderson Ns Nb,,37.94574,-121.26871,,,,,,0
+3657,3657,Acacia & Madison  Fs Wb,,37.96191,-121.2969,,,,,,0
+7143,7143,Acacia & Lincoln Fs Eb,,37.961278,-121.30003,,,,,,0
+3659,3659,Acacia  & Stockton Fs Wb,,37.960415,-121.305806,,,,,,0
+3661,3661,Pershing Av & Country Club  Fs Nb,,37.969664,-121.315089,,,,,,0
+7051,7051,Pershing Av & Alpine Nssb,,37.975555,-121.317693,,,,,,0
+3663,3663,Pershing Av & Monaco St Fs Nb,,37.987885,-121.321318,,,,,,0
+3662,3662,Pershing Av & Rosemarie Ns Nb,,37.98645,-121.32058,,,,,,0
+3415,3415,Swain Rd & Exit St Ns/Wb,,38.001607,-121.330462,,,,,,0
+3416,3416,Swain Rd & Alexandria Pl Ns/Wb,,38.000106,-121.337007,,,,,,0
+3422,3422,Plymouth Rd & Bridgeport Cir Ns/Nb,,38.011972,-121.352486,,,,,,0
+3423,3423,Plymouth Dr & Kelley Dr  Ns/Nb,PLYMOUTH DR & KELLEY DR NS/NB,38.014503,-121.352379,,,,,,0
+3425,3425,Kelley Dr & Hillview Av Ns/Nb,,38.017823,-121.354995,,,,,,0
+7162,7162,Mariners & Hammer Lane Arr Ns Nb,,38.020628,-121.36136,,,,,,0
+7107,7107,Kelley Dr & Hammer Lane Ns Nb,KELLEY & HAMMER LANE NS NB,38.02084,-121.35604,,,,,,0
+3424,3424,Kelley Dr & Warwick Ct Fs/Nb,,38.01573,-121.354262,,,,,,0
+3417,3417,Swain Rd & Porter Wy Fs/Wb,,38.000066,-121.345092,,,,,,0
+3664,3664,Pershing Av & March Lane Fs Sb,,37.988128,-121.32165,,,,,,0
+3666,3666,Pershing Av & Rose Fs Sb,,37.96078,-121.312571,,,,,,0
+3667,3667,Acacia & Yosemite Fs Eb,,37.960187,-121.306556,,,,,,0
+7142,7142,Acacia & Lincoln Fs Wb,,37.961291,-121.300519,,,,,,0
+3670,3670,Acacia & Madison Ns Eb,,37.96184,-121.29664,,,,,,0
+3674,3674,Wilson Wy & Anderson Fs Sb,,37.94553,-121.26889,,,,,,0
+3675,3675,B & Mlk Blvd Fs Sb,,37.943292,-121.259287,,,,,,0
+3676,3676,B & 4th Fs Sb,,37.93912,-121.25763,,,,,,0
+3677,3677,B & 6th Fs Sb,,37.936892,-121.256626,,,,,,0
+3679,3679,Farmington & Madrid Fs Eb,,37.939096,-121.239452,,,,,,0
+3682,3682,Olive & 4th Ns Nb,,37.944719,-121.231588,,,,,,0
+7023,7023,Mathews Rd & Canilis Blvd,,37.882609,-121.297324,,,,,,0
+3799,3799,Louise Ave & Harlan Rd Fs Eb,,37.81167,-121.29048,,,,,,0
+3800,3800,Lathrop Rd & Harlan Rd Fs Wb,,37.826434,-121.287419,,,,,,0
+7206,7206,Ham & Lodi Fs Sb,,38.12958,-121.288392,,,,,,0
+7204,7204,Ham & Lodi Ns Nb,,38.128849,-121.2882,,,,,,0
+3846,3846,Ham & Kettleman Fs Nb,,38.116605,-121.288047,,,,,,0
+3809,3809,Louise Ave & Harlan Rd Ns Wb,,37.81191,-121.29101,,,,,,0
+9987,9987,Marina Center P & R,,38.005613,-121.356427,,,,,,0
+7205,7205,Lodi Transit Station Ns Wb,,38.132793,-121.271754,,,,,,0
+7020,7020,California St & Walnut Ns Nb,,37.96991,-121.28886,,,,,,0
+7325,7325,West Lane & Stadium Ns Sb,,37.985625,-121.284589,,,,,,0
+3844,3844,Lower Sac & Highmoor Ave Fs Nb,,38.025262,-121.322702,,,,,,0
+3845,3845,Lower Sac & Ponce De Leon Ns Nb,,38.029002,-121.322752,,,,,,0
+9934,9934,Stockton Park and Ride,,38.039465,-121.260949,,,,,,0
+7188,7188,Tracy Walmart,,37.751614,-121.473251,,,,,,0
+7944,7944,Dublin/Pleasanton Bart,,37.70283,-121.897856,,,,,,0
+9904,9904,Sampson & Hammer Mb Sb,,38.020094,-121.267878,,,,,,0
+9906,9906,Q St & 5th St,,38.574207,-121.503173,,,,,,0
+9908,9908,8th St & I,,38.582347,-121.495476,,,,,,0
+9926,9926,8th St & K Street,,38.580062,-121.496439,,,,,,0
+9923,9923,Calvary First Church,,38.025089,-121.358977,,,,,,0
+9925,9925,8th St & O Street,,38.575756,-121.498336,,,,,,0
+7195,7195,Lathrop Comm Ctr Mb Sb,,37.820622,-121.278339,,,,,,0
+7199,7199,Manteca Wal-Mart Arr,,37.788009,-121.215862,,,,,,0
+9944,9944,California Gate,,37.380296,-122.022418,,,,,,0
+9945,9945,Hendy Ave Gate 91,,37.375878,-122.021523,,,,,,0
+7111,7111,Cumberland & Ben Holt Fs Nb,,38.006243,-121.362757,,,,,,0
+7191,7191,5th St @ Community Center Mb Nb,,37.820467,-121.278229,,,,,,0
+7207,7207,Kettleman & Tienda Fs Sb,,38.115633,-121.30343,,,,,,0
+7048,7048,Davinci Dr & March Ns Nb,,37.984549,-121.339858,,,,,,0
+7079,7079,Kermit & Benjamin Holt Fs Nb,,38.01223,-121.30297,,,,,,0
+7081,7081,West Lane & Bianchi Fs Nb,,37.998308,-121.289031,,,,,,0
+7084,7084,Lorraine Ave & Hammer Fs Sb,,38.020584,-121.283384,,,,,,0
+7010,7010,Mall Transfer Arr (North),,37.997081,-121.313155,,,,,,0
+7221,7221,S. Main & Industrial Park Dr Fs Nb,,37.788035,-121.215873,,,,,,0
+3973,3973,Ben Holt Dr & Inglewood Fs Wb,,38.01152,-121.319114,,,,,,0
+7194,7194,Shima Parking Lot,,37.995916,-121.319915,,,,,,0
+7043,7043,Michigan Av & Kirk St Ns Eb,MICHIGAN AVE & KIRK ST,37.965685,-121.342961,,,,,,0
+9905,9905,Lodi P&R,,38.136761,-121.259247,,,,,,0
+3358,3358,Fremont St & Filbert St Fs/Wb,,37.965418,-121.256608,,,,,,0
+7087,7087,Wilson Wy & Lindsay Ns Nb,,37.959669,-121.272701,,,,,,0
+7066,7066,Lower Sac & Hammer Fs Nb,,38.021866,-121.322844,,,,,,0
+3147,3147,Weber & Van Buren Fs/Eb,WEBER AVE & VAN BUREN ST,37.952581,-121.296335,,,,,,0
+3148,3148,Weber & Commerce Ns/Eb,,37.95315,-121.293012,,,,,,0
+7161,7161,Weber @ Courthouse Ns Eb,,37.953865,-121.288993,,,,,,0
+7152,7152,Washington St & Cardinal Ns Eb,,37.966307,-121.223192,,,,,,0
+3717,3717,8th St & Pock Lane Fs Eb,8TH ST & POCK LN,37.935913,-121.247315,,,,,,0
+7151,7151,Oro & Main Fs Nb,,37.954964,-121.234633,,,,,,0
+7090,7090,Waterloo Rd & Golden  Gate Fs Wb,,37.980037,-121.257356,,,,,,0
+7105,7105,8th St & Houston St Fs Eb,,37.92662,-121.320896,,,,,,0
+7047,7047,Rosemarie Ln & Mcgaw Mb Wb,,37.985463,-121.32567,,,,,,0
+7148,7148,Main & Gertrude Fs Wb,,37.954377,-121.232921,,,,,,0
+7046,7046,Pershing Av & Larry Heller Fs Nb,,37.975846,-121.317504,,,,,,0
+3801,3801,Stonebridge & Opal Fs Wb,,37.835807,-121.282257,,,,,,0
+7057,7057,Pershing Av & Fremont St Fs Nb,,37.95467,-121.312253,,,,,,0
+7102,7102,Stockton St & Charter Wy Ns Nb,,37.935712,-121.29984,,,,,,0
+7091,7091,Filbert St & Poplar St Fs Sb,,37.96846,-121.257597,,,,,,0
+7141,7141,Wilson Wy & Jackson Ns Nb,,37.94383,-121.26819,,,,,,0
+7004,7004,Miner Ave & Wilson Ns Eb,,37.958647,-121.272627,,,,,,0
+7183,7183,Otto & Estate Dr Ns Eb,OTTO DR & ESTATE DR,38.03753,-121.36331,,,,,,0
+7082,7082,Hammer Ln & Lorraine Fs Eb,,38.020888,-121.282744,,,,,,0
+7001,7001,Miner Ave & Sierra Nevada Fs Wb,,37.958592,-121.274044,,,,,,0
+4043,4043,Royal Oaks Dr & Royal Park Ln Fs Eb,,38.036785,-121.330088,,,,,,0
+7217,7217,Main & Louise Fs Sb,,37.811617,-121.217191,,,,,,0
+7216,7216,99 Frontage & Togninali Ln Fs Sb,,37.917584,-121.228468,,,,,,0
+7189,7189,East St & 10th St Fs Nb,,37.73891,-121.42102,,,,,,0
+3542,3542,8th St & Scribner Fs/Wb,,37.932743,-121.260207,,,,,,0
+3543,3543,8th St & Anne Ns/Wb,,37.93228,-121.262195,,,,,,0
+3342,3342,Wilson Wy & Pinchot St Ns/Nb,,37.968833,-121.275046,,,,,,0
+3548,3548,Stanislaus & Jackson Fs/Nb,,37.942384,-121.278723,,,,,,0
+3549,3549,Stanislaus & Worth Fs/Nb,,37.94526,-121.27947,,,,,,0
+3347,3347,Sanguinetti Ln & Wilson Wy Ns/Nb,,37.983098,-121.271121,,,,,,0
+3560,3560,El Dorado & Wyandotte Ns/Nb,,37.971475,-121.29534,,,,,,0
+3348,3348,Wilson Wy & E St Fs/Nb,,37.985271,-121.270055,,,,,,0
+3562,3562,El Dorado & Noble Ns/Nb,,37.975946,-121.297533,,,,,,0
+3565,3565,El Dorado & Churchill Fs/Nb,EL DORADO ST & CHURCH ST,37.986566,-121.301867,,,,,,0
+3332,3332,Kentfield & Surrey Lane Fs/Nb,,37.99466,-121.30149,,,,,,0
+3366,3366,Bradford St & Wilson Ns/Wb,,37.97402,-121.27574,,,,,,0
+3571,3571,Iris Ave & Hammer Village Fs Eb,,38.022592,-121.312672,,,,,,0
+3575,3575,Knickerbocker & New York Ns Eb,KNICKERBOCK DR & NEW YORK DR,38.024152,-121.296113,,,,,,0
+3354,3354,Filbert St & Roosevelt St Ns/Sb,,37.971613,-121.258886,,,,,,0
+3353,3353,Filbert St & Oak Fs/Nb,,37.966274,-121.256535,,,,,,0
+3369,3369,Filbert St & Roosevelt Ns/Nb,,37.971625,-121.258756,,,,,,0
+3582,3582,Sandalwood Dr & Ringwood Ns Wb,SANDALWOOD DR & RINGWOOD AVE,38.032131,-121.28924,,,,,,0
+3584,3584,West Lane Frontage @ 8700 West Lane,,38.03027,-121.294655,,,,,,0
+3590,3590,Prospector & West Lane Frontage Wb,,38.032199,-121.295512,,,,,,0
+3591,3591,Tam O'SHANTER Dr & Likala Fs Sb,,38.030112,-121.300641,,,,,,0
+3592,3592,Tam O'SHANTER Dr & Erie Ns Sb,,38.025404,-121.300622,,,,,,0
+3593,3593,Iris Ave & Lan Ark Fs Wb,,38.021942,-121.30967,,,,,,0
+3594,3594,Iris Ave & Iris Ct Fs Wb,,38.021852,-121.311441,,,,,,0
+3595,3595,Iris Ave & Dunbarton Fs Wb,,38.022752,-121.314661,,,,,,0
+3600,3600,El Dorado & Alpine Fs Sb,,37.979667,-121.299196,,,,,,0
+3612,3612,Stanislaus & Jackson Fs Sb,,37.941952,-121.278791,,,,,,0
+7615,7615,Airport Wy & 8th Fs Sb,,37.931421,-121.267058,,,,,,0
+3616,3616,Airport Wy & 10th Fs Sb,,37.928799,-121.266197,,,,,,0
+3618,3618,Ralph & Zamora Fs Eb,,37.921885,-121.25475,,,,,,0
+3620,3620,B & 13th Fs Nb,,37.928194,-121.253022,,,,,,0
+3621,3621,B & 10th Fs Nb,,37.932275,-121.254665,,,,,,0
+7126,7126,Holman Rd & E Telestar Pl  Arr Fs Nb,,38.018504,-121.27038,,,,,,0
+7203,7203,Kettleman & Tienda Fs Nb,,38.115373,-121.302391,,,,,,0
+7737,7737,Lincoln St & Weber Ave Fs Sb,,37.952086,-121.297877,,,,,,0
+3864,3864,Church St & Pershing Ave Ns Wb,,37.944964,-121.308073,,,,,,0
+3585,3585,West Lane & West Ln Front Rd Sb,,38.029401,-121.295108,,,,,,0
+3634,3634,West Lane & Hammer Lane Fs Nb,,38.021505,-121.294708,,,,,,0
+7264,7264,Fremont St & Commerce Ns Eb,FREMONT ST & COMMERCE ST,37.957347,-121.293516,,,,,,0
+3081,3081,Mosswood & Odell Fs/Eb,MOSSWOOD AVE & ODELL AVE,37.923417,-121.285225,,,,,,0
+3304,3304,Kentfield & March Ln Fs/Sb,,37.997251,-121.3031,,,,,,0
+3331,3331,Bianchi Rd & Kentfield Ns/Wb,,37.993078,-121.300366,,,,,,0
+3305,3305,Dorset & Bianchi Ns/Sb,,37.99454,-121.29803,,,,,,0
+3328,3328,Bianchi Rd & Clowes Fs/Wb,,37.997391,-121.290618,,,,,,0
+3329,3329,Bianchi Rd & Hillsboro Fs/Wb,,37.9959,-121.296,,,,,,0
+3314,3314,Lorraine Ave & Homewood Dr Fs/Nb,,38.017247,-121.284451,,,,,,0
+3316,3316,Hammer Ln & Pavilion Plaza Fs/Eb,,38.020962,-121.275939,,,,,,0
+3318,3318,Hammer Ln & Holman Rd Fs/Eb,,38.021001,-121.270942,,,,,,0
+3319,3319,Sampson Rd & Hammer Ln Fs/Sb,,38.020075,-121.267833,,,,,,0
+3321,3321,Hammer Ln & Girardi Fs/Wb,,38.021231,-121.277286,,,,,,0
+3322,3322,Lorraine Ave & Homewood Ns/Sb,,38.01686,-121.284879,,,,,,0
+3324,3324,Hammertown & Everest Ave Fs/Wb,,38.016636,-121.292676,,,,,,0
+3515,3515,Airport Wy & Park St Fs/Nb,,37.962535,-121.276028,,,,,,0
+3516,3516,Airport Wy & Roosevelt St Ns/Nb,,37.96711,-121.277294,,,,,,0
+3519,3519,Harding Wy & Hiawatha Ave Fs/Eb,,37.971625,-121.270201,,,,,,0
+3520,3520,Cherokee Rd & Waterloo Rd Fs/Nb,,37.974028,-121.267291,,,,,,0
+3521,3521,Cherokee Rd & Myran Ave Fs/Nb,,37.983609,-121.260226,,,,,,0
+3867,3867,Carolyn Weston & Mcdougald Fs Wb,CAROLYN WESTON BLVD & MCDOUGALD BLVD,37.911381,-121.299033,,,,,,0
+3868,3868,Carolyn Weston & General Mueller Wb,CAROLYN WESTON BLVD & GEN MUELLER LN,37.911476,-121.302217,,,,,,0
+3870,3870,Carolyn Weston & Ishi Goto St Fs Wb,,37.912491,-121.309337,,,,,,0
+7210,7210,Carolyn Weston & Gaswell Fs Wb,CAROLYN WESTON BLVD & GASWELL,37.913472,-121.313274,,,,,,0
+3875,3875,Henry Long & Ews Wood Blvd Fs Eb,,37.902021,-121.302847,,,,,,0
+3879,3879,William Moss Bl & Ramalho Ln Fs Eb,,37.906684,-121.291852,,,,,,0
+3876,3876,Henry Long & Woodhollow Fs Eb,,37.901151,-121.298998,,,,,,0
+3877,3877,Mcdougald Blvd & Henry Long Fs Nb,,37.900808,-121.294725,,,,,,0
+3871,3871,Carolyn Weston & Kay Bridges Fs Wb,CAROLYN WESTON BLVD & KAY BRIDGES PL,37.911021,-121.317928,,,,,,0
+3872,3872,Carolyn Weston & Monet Drive Fs Sb,,37.907079,-121.319464,,,,,,0
+3873,3873,Carolyn Weston & Aso Taro Ct Fs Sb,,37.905292,-121.319762,,,,,,0
+3874,3874,Henry Long & Estes Ave Eb,,37.902207,-121.315233,,,,,,0
+3878,3878,Mcdougald Blvd & Bess Pl Ns Nb,,37.905232,-121.295332,,,,,,0
+7103,7103,California St & Vine Fs Nb,,37.966237,-121.287932,,,,,,0
+3843,3843,Pacific Av @ Hammer Ranch Center Nb,,38.017279,-121.322882,,,,,,0
+3762,3762,Stanfield & Appling Cir Ns Wb,STANFIELD DR & APPLING CIR,38.035312,-121.356275,,,,,,0
+3482,3482,Thornton Rd & A.G. Spanos Blvd Fs/Nb,,38.046272,-121.350457,,,,,,0
+3507,3507,Thornton Rd & A.G. Spanos  Blvd Fs/Sb,,38.045014,-121.35022,,,,,,0
+3409,3409,Stockton St & Gabriel Ct Ns/Nb,,37.928427,-121.29981,,,,,,0
+3408,3408,Stockton St & 8th St Fs/Nb,,37.927043,-121.299805,,,,,,0
+3450,3450,Herndon Pl & Mill Springs Fs/Sb,HERNDON PL & MILL SPRINGS DR,38.008964,-121.357571,,,,,,0
+3523,3523,Maranatha Dr & Christian Life Wy Nb,,38.024565,-121.264043,,,,,,0
+3532,3532,Holman Rd & Wakeman Dr Fs/Nb,,38.024353,-121.270916,,,,,,0
+3524,3524,Holman Rd & Bryant Dr Fs/Sb,,38.026895,-121.269932,,,,,,0
+3401,3401,Dry Creek Wy & Houston Av Ns/Sb,,37.921299,-121.308708,,,,,,0
+3402,3402,Houston Av & Sunol Valley  Fs/Nb,,37.921191,-121.314302,,,,,,0
+3403,3403,Houston Av & Tilden Park St Fs/Nb,HOUSTON ST & VAN BUREN ST,37.923696,-121.31966,,,,,,0
+3404,3404,8th St  & Tillie Lewis Dr Fs/Eb,,37.926555,-121.318541,,,,,,0
+3410,3410,Stockton St & 5th St Ns/Nb,,37.931159,-121.299812,,,,,,0
+3405,3405,8th St  & Fresno Av Ns/Eb,,37.926559,-121.311635,,,,,,0
+3527,3527,March Ln & Holman Rd Fs/Wb,,38.005943,-121.272406,,,,,,0
+3525,3525,Holman Rd & Wakeman Dr Fs/Sb,,38.023817,-121.271578,,,,,,0
+3641,3641,Sinclair & 4th St Ns Sb,SINCLAIR AVE & 4TH ST,37.946417,-121.227492,,,,,,0
+3653,3653,Wilson Wy & Hazelton Fs Nb,,37.95037,-121.26996,,,,,,0
+3655,3655,Wilson Wy & Market Fs Nb,,37.954922,-121.271239,,,,,,0
+3421,3421,Plymouth Rd  & Crittenden Ct Fs/Nb,,38.009429,-121.35168,,,,,,0
+3487,3487,Morada Ln & Lower Sac Fs/Eb,,38.035456,-121.322348,,,,,,0
+3489,3489,El Dorado & Normandy Ct Fs/Sb,EL DORADO ST & NORMANDY CT,38.029076,-121.316343,,,,,,0
+3665,3665,Pershing Av & Country Club Fs Sb,,37.969197,-121.315123,,,,,,0
+3511,3511,Swain & Claremont Fs/Eb,SWAIN RD & CLAREMONT AVE,38.005613,-121.313198,,,,,,0
+3671,3671,Wilson Wy & Main Fs Sb,,37.955674,-121.271635,,,,,,0
+3672,3672,Wilson Wy & Lafayette Ns Sb,,37.9531,-121.27099,,,,,,0
+3673,3673,Wilson Wy & Hazelton Ns Sb,,37.94999,-121.27011,,,,,,0
+3680,3680,Farmington @ 3808 Eb,FARMINGTON RD & 3808 FARMINGTON RD,37.939531,-121.2378,,,,,,0
+3084,3084,8th St & San Joaquin Ns/Eb,,37.929235,-121.280671,,,,,,0
+3128,3128,Clayton & Harvey Fs/Eb,,37.910985,-121.276969,,,,,,0
+3129,3129,El Dorado & Western Lumber Mb/Sb,EL DORADO ST & WESTERN LUMBER,37.904417,-121.275816,,,,,,0
+7793,7793,Maranatha Dr & Christian Life Ns Sb,,38.024476,-121.264222,,,,,,0
+3537,3537,Cherokee Rd & Sierra Ln Fs/Sb,,37.977058,-121.26523,,,,,,0
+3538,3538,Harding Wy & Hiawatha St Fs/Wb,,37.971607,-121.270657,,,,,,0
+3539,3539,Harding Wy & Funston Ave Fs/Wb,,37.971561,-121.27078,,,,,,0
+3517,3517,Airport Wy & Harding Wy Ns/Nb,,37.969981,-121.278054,,,,,,0
+3541,3541,Airport Wy & Roosevelt St Fs/Sb,,37.966673,-121.277335,,,,,,0
+3683,3683,Main & Anteros Ns Wb,,37.95423,-121.23759,,,,,,0
+3686,3686,Main & F Street Fs Wb,,37.95503,-121.254166,,,,,,0
+3688,3688,Main & D Street Fs Wb,,37.955288,-121.259454,,,,,,0
+3359,3359,Fremont St & Laurel Fs/Wb,,37.96209,-121.26599,,,,,,0
+3798,3798,East St & Carlton Fs Nb,,37.746355,-121.421137,,,,,,0
+3703,3703,Main & Fair Oaks Library Eb,,37.954983,-121.255793,,,,,,0
+3709,3709,Washington St & Dawes Ns Eb,WASHINGTON ST & DAWES AVE,37.963887,-121.232218,,,,,,0
+3712,3712,Cardinal Av & Meadowood Fs Sb,,37.959406,-121.219885,,,,,,0
+3713,3713,Main & Del Mar Fs Wb,MAIN ST & DEL MAR AVE,37.955843,-121.227098,,,,,,0
+3890,3890,Togninali Ln & Pock Fs Eb,,37.91641,-121.23851,,,,,,0
+3812,3812,Wilma Ave & 4th St Ns Sb,,37.736795,-121.135483,,,,,,0
+3899,3899,Togninali Ln & Kimball Fs Wb,TOGNINALI LN & KIMBALL LN,37.917466,-121.23495,,,,,,0
+3900,3900,Togninali Ln & Pock Ns Wb,,37.91638,-121.23915,,,,,,0
+7223,7223,Ralph & Airport Ns Wb,RALPH AVE & AIRPORT WY,37.920207,-121.261701,,,,,,0
+3654,3654,Wilson Wy & Lafayette Ns Nb,,37.952624,-121.270611,,,,,,0
+3903,3903,East St & Grant Line Fs Sb,,37.753902,-121.421189,,,,,,0
+3530,3530,Holman Rd & Etcheverry Fs/Nb,,38.004781,-121.271784,,,,,,0
+3540,3540,Airport Wy & Harding Fs/Sb,AIRPORT WY & HARDING WY,37.969863,-121.278204,,,,,,0
+3862,3862,Lincoln St & Sonora St Fs Sb,,37.947083,-121.296523,,,,,,0
+3865,3865,Fresno Ave & Sonora St Fs Nb,,37.944894,-121.312522,,,,,,0
+3810,3810,Grant Line Rd & East St Fs Wb,,37.754344,-121.421519,,,,,,0
+3916,3916,Thornton Rd & Pershing Fs Sb,,38.025665,-121.329526,,,,,,0
+3911,3911,Thornton Rd & Macduff Fs Nb,,38.026476,-121.330004,,,,,,0
+3811,3811,Grant Line Rd & Orchard Pkwy Fs Wb,,37.75426,-121.45705,,,,,,0
+3796,3796,Grant Line Rd & Orchard Pkwy Fs/Eb,,37.753999,-121.455858,,,,,,0
+3921,3921,99 Frontage Rd & Shadow Lake Mobile Home Park Nb,N HIGHWAY 99 & N 99 FRONTAGE RD,38.010154,-121.257025,,,,,,0
+3819,3819,Giannecchini Ln & Transworld Dr Nb,,37.908224,-121.23334,,,,,,0
+3716,3716,Pock Ln & Maya Angelou Library Nb,,37.934251,-121.246884,,,,,,0
+7222,7222,Main & Louise Ns Nb,,37.81244,-121.2169,,,,,,0
+7119,7119,Morada Ln & El Dorado Ns Eb,,38.035439,-121.318529,,,,,,0
+7324,7324,Holman Rd & Auto Center Fs Sb,,38.019575,-121.271215,,,,,,0
+7190,7190,Grant Line & Macarthur Fs Eb,GRANT LINE RD & MACARTHUR BLVD,37.754168,-121.414462,,,,,,0
+3797,3797,Grant Line Rd & East St Fs Eb,,37.75412,-121.420353,,,,,,0
+7192,7192,Harlan Rd & Lathrop Rd Fs Sb,,37.825675,-121.287131,,,,,,0
+3807,3807,Stonebridge & Opal Ns Eb,,37.835798,-121.28228,,,,,,0
+7127,7127,Park St & Aurora St Ns Wb,,37.961348,-121.282181,,,,,,0
+9920,9920,VTA Parkout C Arrive,,37.410555,-122.028381,,,,,,0
+7000,7000,Filbert St & Myrtle Fs Nb,,37.961378,-121.254256,,,,,,0
+3306,3306,Bianchi Rd & Hillsboro Way Ns/Eb,,37.99579,-121.29576,,,,,,0
+3637,3637,Elaine Dr & Kermit Ln,,38.005995,-121.300961,,,,,,0
+3856,3856,Lincoln St & Layfayette Ns Nb,,37.94836,-121.296657,,,,,,0
+3144,3144,Weber & Center Fs/Wb,,37.953534,-121.29176,,,,,,0
+3710,3710,Washington St & Thelma Fs Eb,,37.965141,-121.227558,,,,,,0
+7059,7059,Mt Diablo Av & Ryde Fs Wb,,37.956538,-121.333241,,,,,,0
+3529,3529,March Ln & Bianchi Rd Fs/Eb,,38.003505,-121.284269,,,,,,0
+3528,3528,March Ln & Montauban Ave Fs/Wb,,38.003575,-121.285207,,,,,,0
+7943,7943,East Gate Arrive,,37.686827,-121.697475,,,,,,0
+3553,3553,Weber & Stanislaus Fs/Wb,,37.955122,-121.28269,,,,,,0
+3583,3583,Sandalwood Dr & West Lane Frontage Ns Wb,,38.032066,-121.294645,,,,,,0
+9936,9936,Johnson Park & Ride,,37.691129,-121.914865,,,,,,0
+9907,9907,8th St & N St,,38.576592,-121.498064,,,,,,0
+9909,9909,J St & 11th St,,38.579708,-121.49152,,,,,,0
+9910,9910,N St & 15th St,,38.57376,-121.487712,,,,,,0
+9912,9912,16TH ST & N St,,38.57443,-121.486774,,,,,,0
+9913,9913,I St & 15th St,,38.579767,-121.486635,,,,,,0
+9914,9914,I St & 8th St,,38.582257,-121.495981,,,,,,0
+9915,9915,7th St & Capital Av,,38.577696,-121.499125,,,,,,0
+9916,9916,5th St & P St,,38.57571,-121.502828,,,,,,0
+9927,9927,N St & 10th St,,38.575773,-121.495189,,,,,,0
+9928,9928,N St & 14th St,,38.574373,-121.490043,,,,,,0
+9930,9930,P St & 16th St,,38.571613,-121.488367,,,,,,0
+9931,9931,P St & 11th St,,38.57331,-121.494728,,,,,,0
+9932,9932,P St & 9th St,,38.57417,-121.497952,,,,,,0
+7211,7211,Henry Long & Mccuen Fs Eb,,37.902074,-121.307675,,,,,,0
+3535,3535,Wigwam Dr & Lance Dr Fs/Sb,,37.986188,-121.256556,,,,,,0
+3820,3820,Qantas & Transworld Sb,QANTAS LN & TRANSWORLD DR,37.906368,-121.228702,,,,,,0
+3847,3847,Kettleman & Ham Fs Wb,KETTLEMAN LN & HAM LN,38.115561,-121.288874,,,,,,0
+7025,7025,Downtown Transit Center Dep B,,37.955044,-121.285053,,,,,,0
+7017,7017,Downtown Transit Center Dep C,,37.954955,-121.285847,,,,,,0
+7003,7003,Downtown Transit Center Dep D,,37.954928,-121.285386,,,,,,0
+3630,3630,Tam O Shanter Dr & Hammer Ln Fs Sb,,38.020938,-121.300561,,,,,,0
+3486,3486,Lower Sac & Royal Oaks Fs Sb,,38.036472,-121.322894,,,,,,0
+7172,7172,Oak St & Aurora Fs Eb,,37.960514,-121.28057,,,,,,0
+3484,3484,Davis Rd & Chaparral Wy Fs/Sb,,38.0402,-121.331992,,,,,,0
+3394,3394,Mlk Blvd & El Dorado St Ns/Wb,,37.939,-121.28651,,,,,,0
+3395,3395,Mlk Blvd & Van Buren St Fs/Wb,,37.937774,-121.292891,,,,,,0
+7169,7169,Hammer Ln & Don  Av Fs Wb,,38.021465,-121.34602,,,,,,0
+7184,7184,Otto & Thornton Rd Ns Eb,,38.039034,-121.343926,,,,,,0
+7185,7185,Stanfield & Thornton Fs Wb,STANFIELD DR & THORNTON RD,38.037046,-121.34175,,,,,,0
+7176,7176,Trinity Pkwy & Cosumnes Dr Fs Nb,,38.048972,-121.373589,,,,,,0
+7165,7165,Hammer Triangle Arr Sb,,38.020673,-121.323474,,,,,,0
+7083,7083,Hammer Ln & Holman Rd Fs Wb,,38.021311,-121.272828,,,,,,0
+7163,7163,Hammer Ln & Meadow Av Fs Eb,,38.02126,-121.34541,,,,,,0
+3307,3307,Bianchi Rd & Clowes St Ns/Eb,,37.997213,-121.290679,,,,,,0
+3000,3000,Miner Ave & Airport Way Fs Wb,,37.958356,-121.275012,,,,,,0
+3001,3001,Miner Ave & Airport Way Ns/Eb,,37.958167,-121.275391,,,,,,0
+7006,7006,Downtown Transit Center Dep A,,37.955008,-121.285248,,,,,,0
+3003,3003,Fremont St & Center St Ns/Wb,,37.957592,-121.292211,,,,,,0
+3004,3004,Fremont St & Madison St Ns/Wb,,37.957093,-121.295451,,,,,,0
+3005,3005,Madison St & Flora St Ns/Nb,,37.95992,-121.29576,,,,,,0
+3012,3012,Pacific Av & Bianchi Rd Ns/Nb,,37.9877,-121.3111,,,,,,0
+3013,3013,Pacific Av & March Ln Fs/Nb,,37.991965,-121.312774,,,,,,0
+3014,3014,Pacific Av & Weberstown Ent Mb/Nb,,37.994009,-121.313638,,,,,,0
+3015,3015,Pacific Av & March Fs/Sb,,37.99086,-121.312694,,,,,,0
+3016,3016,Pacific Av & Bianchi Rd Fs/Sb,,37.98744,-121.31135,,,,,,0
+3022,3022,Madison St & Flora St Fs/Sb,,37.95979,-121.29592,,,,,,0
+3023,3023,Fremont St & Commerce St Fs/Eb,,37.957187,-121.294014,,,,,,0
+3024,3024,San Joaquin St & Lafayette St Fs/Nb,,37.95043,-121.28635,,,,,,0
+3026,3026,San Joaquin St & Main St Fs/Nb,,37.953302,-121.287151,,,,,,0
+3027,3027,California St & Fremont St Ns/Nb,,37.958453,-121.285789,,,,,,0
+3028,3028,California St & Oak St Ns/Nb,,37.959455,-121.286065,,,,,,0
+3029,3029,California St & Flora St Fs/Nb,,37.96176,-121.28667,,,,,,0
+3030,3030,California St & Magnolia St Fs/Nb,,37.96484,-121.287556,,,,,,0
+3032,3032,California St & Wyandotte St Fs/Nb,,37.973006,-121.289902,,,,,,0
+3033,3033,California St & Hampton Nb,,37.976046,-121.29117,,,,,,0
+3034,3034,California St & Sonoma Av Fs/Nb,,37.980959,-121.293167,,,,,,0
+3035,3035,West Lane & Enterprise St Ns/Nb,,37.990113,-121.285936,,,,,,0
+3037,3037,West Lane & March Ln Fs/Nb,,38.002591,-121.290742,,,,,,0
+3038,3038,West Lane & Atchenson St Fs/Nb,,38.006338,-121.292235,,,,,,0
+3039,3039,West Lane & Swain Rd Fs/Nb,,38.011454,-121.294111,,,,,,0
+3040,3040,Tam O Shanter Dr & Hammertown Fs/Sb,,38.015402,-121.299133,,,,,,0
+3041,3041,Tam O Shanter Dr @ Comcast Cable Sb,,38.012914,-121.297713,,,,,,0
+3042,3042,West Lane & Swain Rd Fs Fs/Sb,,38.010199,-121.294128,,,,,,0
+3043,3043,West Lane & Access St Fs/Sb,,38.005704,-121.292319,,,,,,0
+3045,3045,West Lane  & Bianchi Rd Fs/Sb,,37.996729,-121.28874,,,,,,0
+3046,3046,West Lane & Enterprise St Fs/Sb,,37.989999,-121.286196,,,,,,0
+3047,3047,California St & Sonoma Ns/Sb,,37.98092,-121.293374,,,,,,0
+3049,3049,California St & Hampton St Fs/Sb,,37.975149,-121.291002,,,,,,0
+3050,3050,California St & Wyandotte St Fs/Sb,,37.972661,-121.289985,,,,,,0
+3052,3052,California St & Vine St Fs/Sb,,37.966509,-121.288186,,,,,,0
+3053,3053,California St & Magnolia St Fs/Sb,,37.96413,-121.287536,,,,,,0
+3055,3055,California St & Flora St Ns/Sb,,37.96174,-121.28694,,,,,,0
+3056,3056,California St & Oak St Ns/Sb,,37.959751,-121.286362,,,,,,0
+3057,3057,California St & Fremont St Ns/Sb,,37.958734,-121.286048,,,,,,0
+3058,3058,San Joaquin St & Weber Av Fs/Sb,,37.954169,-121.287476,,,,,,0
+3059,3059,San Joaquin St & Market St Fs/Sb,,37.95191,-121.286955,,,,,,0
+3060,3060,Lever Blvd & 8th St Fs/Sb,,37.925888,-121.297527,,,,,,0
+3061,3061,Chicago Av &  Colorado Av Fs/ Eb,,37.922993,-121.297603,,,,,,0
+3065,3065,Freedom Rd & Matthews Rd Sb,,37.882855,-121.281989,,,,,,0
+3066,3066,Mathews Rd & Bright Rd Fs/Wb,,37.882518,-121.29206,,,,,,0
+3067,3067,Mathews Rd & Endow Rd Fs/Wb,,37.882563,-121.294547,,,,,,0
+3068,3068,Mathews Rd & Freedom Rd Fs/Eb,,37.882201,-121.282094,,,,,,0
+3070,3070,Carolyn Weston & Manthey Fs/Eb,,37.912285,-121.294598,,,,,,0
+3072,3072,California St & Arcade St Fs/Nb,,37.978222,-121.292166,,,,,,0
+7030,7030,Essex St & El Dorado St Fs Eb,,37.98721,-121.30183,,,,,,0
+3105,3105,Essex St & Sutter St Ns/Eb,,37.988055,-121.298504,,,,,,0
+3146,3146,Lincoln St & Washington St Fs/Nb,,37.949895,-121.297121,,,,,,0
+3157,3157,Lincoln St & 4th St Fs/Sb,,37.932424,-121.292285,,,,,,0
+3165,3165,San Joaquin St & Oak St Fs/Nb,,37.95931,-121.28876,,,,,,0
+3174,3174,Pershing Av & Elm St Ns/Nb,,37.964756,-121.313404,,,,,,0
+3175,3175,Country Club Blvd & Grange Av Fs/Wb,,37.968436,-121.319483,,,,,,0
+3176,3176,Country Club Blvd & Mission Rd Nswb,,37.967635,-121.322701,,,,,,0
+3177,3177,Country Club Blvd & Franklin Av Wb,,37.966191,-121.328499,,,,,,0
+3178,3178,Country Club Blvd & Delaware Av Wb,,37.965595,-121.33089,,,,,,0
+3179,3179,Country Club Blvd & Plymouth Rd Wb,,37.964718,-121.334518,,,,,,0
+3180,3180,Oregon Ave & Michigan Av Fs/Sb,,37.96508,-121.344279,,,,,,0
+3181,3181,Michigan Av & Ryde Fs Wb,N RYDE AV & RYDE AV,37.96597,-121.34239,,,,,,0
+3182,3182,Country Club Blvd & Oregon Av Fs/Eb,,37.962584,-121.342413,,,,,,0
+3183,3183,Alpine & Mission Rd Fs/Eb,,37.97337,-121.32536,,,,,,0
+3184,3184,Alpine & Grange Av Fs/Eb,,37.974361,-121.321594,,,,,,0
+3185,3185,Alpine & Pershing Av Ns/Eb,,37.975124,-121.318528,,,,,,0
+3186,3186,Pershing Av & Brookside Rd Fs/Nb,,37.982239,-121.318946,,,,,,0
+3187,3187,Rosemarie Ln & Pershing Av Fs/Wb,,37.986548,-121.321234,,,,,,0
+3188,3188,Rosemarie Ln & Angelico Cir Fs/Wb,,37.984153,-121.330781,,,,,,0
+3189,3189,Rosemarie Ln & Piccardo Cir Fs/Wb,,37.983739,-121.332445,,,,,,0
+3195,3195,March Ln & Pershing Av Fs/Eb,,37.989016,-121.321429,,,,,,0
+3199,3199,March Ln & Pacific Av Fs/Wb,,37.991079,-121.314048,,,,,,0
+3200,3200,March Ln & Precissi Ln Ns/Wb,,37.990726,-121.315471,,,,,,0
+3201,3201,March Ln & Pershing Av Fs/Wb,,37.989008,-121.322482,,,,,,0
+3202,3202,March Ln & Venetian Dr Fs/Wb,,37.98807,-121.326308,,,,,,0
+3203,3203,March Ln & Grouse Run Dr Fs/Wb,,37.98724,-121.32968,,,,,,0
+3204,3204,March Ln & Quail Lakes Plaza Ns/Wb,,37.98582,-121.335078,,,,,,0
+7049,7049,Davinci Dr & March Ln Fs Sb,,37.983932,-121.339878,,,,,,0
+3205,3205,Rosemarie Ln & Lorenzo Ln Ns/Eb,,37.982221,-121.337588,,,,,,0
+3206,3206,Rosemarie Ln & Venezia Blvd Ns/Eb,,37.983509,-121.334402,,,,,,0
+3207,3207,Rosemarie Ln & Angelico Cir Ns/Eb,,37.984029,-121.330854,,,,,,0
+3208,3208,Pershing Av & Rose Marie Ln Fs/Sb,,37.98597,-121.32067,,,,,,0
+3209,3209,Pershing Av & Brookside Rd Fs/Sb,,37.981723,-121.318968,,,,,,0
+3210,3210,Alpine & Pershing Av Fs/Wb,,37.975265,-121.318512,,,,,,0
+3211,3211,Alpine & Grange Av Fs/Wb,,37.974307,-121.322369,,,,,,0
+3212,3212,Alpine & Mission Rd Ns/Wb,,37.97354,-121.32544,,,,,,0
+7052,7052,Alpine & Franklin Av Ns Wb,,37.972084,-121.331357,,,,,,0
+7044,7044,Country Club Blvd & Fontana Arr Eb,COUNTRY CLUB BLVD & FONTANA AVE,37.963883,-121.337108,,,,,,0
+3213,3213,Country Club Blvd & Plymouth Rd Eb,,37.964501,-121.334667,,,,,,0
+3214,3214,Country Club Blvd & Clipper Ln Fseb,W COUNTRY CLUB BL & CLIPPER LN,37.965506,-121.330964,,,,,,0
+3215,3215,Country Club Blvd & Carlton Av Fseb,COUNTRY CLUB BLVD & CARLTON AVE,37.966169,-121.327944,,,,,,0
+3216,3216,Country Club Blvd & Mission Rd Nseb,,37.967168,-121.323974,,,,,,0
+3217,3217,Country Club Blvd & Grange Av Fseb,,37.968489,-121.318673,,,,,,0
+3218,3218,Pershing Av & Elm St Ns/Sb,,37.964943,-121.313655,,,,,,0
+3229,3229,San Joaquin St & Lindsay St Ns/Sb,,37.957327,-121.288431,,,,,,0
+7032,7032,San Joaquin St & Taylor St Ns Sb,,37.945745,-121.28528,,,,,,0
+3233,3233,Fremont St & Harrison St Fs/Wb,,37.95622,-121.30044,,,,,,0
+3234,3234,Fremont St & Baker St Fs/Wb,,37.9557,-121.30305,,,,,,0
+3235,3235,Fremont St & Yosemite St Ns/Wb,,37.955366,-121.305337,,,,,,0
+3236,3236,Fremont St & Argonaut St Ns/Wb,,37.954922,-121.307952,,,,,,0
+3237,3237,Picardy Dr & Pershing Av Fs/Wb,,37.9593,-121.31236,,,,,,0
+3238,3238,Picardy Dr & Argonne Dr Ns/Wb,,37.95901,-121.316667,,,,,,0
+3239,3239,Mt Diablo Av & Buena Vista St Ns/Wb,,37.95906,-121.318597,,,,,,0
+3240,3240,Mt Diablo Av & San Juan Av Fs/Wb,,37.95848,-121.32205,,,,,,0
+3241,3241,Mt Diablo Av & Carlton Av Fs/Wb,,37.95786,-121.32564,,,,,,0
+3242,3242,Mt Diablo Av & I-5 Mb/Wb,,37.957193,-121.329418,,,,,,0
+3243,3243,Mt Diablo Av & Kingsley Av Ns/Wb,,37.955884,-121.337009,,,,,,0
+3244,3244,Occidental Av & Mt Diablo Av Fs/Nb,,37.955786,-121.339779,,,,,,0
+3245,3245,Occidental Av & Toyon Dr Ns/Nb,,37.958234,-121.340427,,,,,,0
+3190,3190,Rosemarie Ln & Venezia Blvd Fs/Wb,,37.98356,-121.33467,,,,,,0
+3191,3191,Rosemarie Ln & Lorenzo Ln Ns/Wb,,37.982542,-121.336826,,,,,,0
+3247,3247,Mt Diablo Av & Wilshire Av Ns/Eb,,37.95738,-121.327916,,,,,,0
+3248,3248,Mt Diablo Av & Carlton Av Ns/Eb,,37.95777,-121.32552,,,,,,0
+3250,3250,Mt Diablo Av & San Juan Av Ns/Eb,,37.95838,-121.32192,,,,,,0
+3251,3251,Mt Diablo Av & Buena Vista Av Nseb,,37.958882,-121.319027,,,,,,0
+3252,3252,Picardy Dr & Acacia St Ns/Eb,,37.958731,-121.31636,,,,,,0
+3253,3253,Picardy Dr & Pershing Av Ns/Eb,,37.95916,-121.31246,,,,,,0
+3254,3254,Fremont St & Argonaut St Ns/Eb,,37.954779,-121.308252,,,,,,0
+3255,3255,Fremont St & Yosemite St Ns/Eb,,37.955213,-121.305681,,,,,,0
+3256,3256,Fremont St & Baker St Ns/Eb,,37.95569,-121.30273,,,,,,0
+3257,3257,Fremont St & Harrison St Ns/Eb,,37.95604,-121.30068,,,,,,0
+3258,3258,Fremont St & Commerce St Ns/Wb,,37.957423,-121.293487,,,,,,0
+3259,3259,Center St & Weber Point Mb/Sb,,37.955962,-121.292163,,,,,,0
+3261,3261,Pacific Av & Knoles Wy Fs/Nb,,37.981072,-121.307538,,,,,,0
+7068,7068,Pacific Av & Yokuts Av Arrive Sb,,37.99687,-121.315041,,,,,,0
+3262,3262,Pacific Av & Knoles Wy Fs/Sb,,37.980336,-121.307178,,,,,,0
+3264,3264,Quail Lakes Dr & March Ln Fs/Nb,,37.985253,-121.33978,,,,,,0
+3265,3265,Quail Lakes Dr & Mallard Creek Ns/Nb,QUAIL LAKES & MALLARD CREEK NS/NB,37.988584,-121.340187,,,,,,0
+3266,3266,Quail Lakes Dr & Round Valley Ns/Nb,QUAIL LAKES  & ROUND VALLEY NS/NB,37.989973,-121.340676,,,,,,0
+3267,3267,Quail Lakes Dr & Grizzly Hollow Fs/Nb,QUAIL LAKES & GRIZZLY HOLLOW FS/NB,37.994181,-121.342035,,,,,,0
+3268,3268,Quail Lakes Dr & Pheasant Run Fs/Nb,QUAIL LAKES & PHEASANT RUN FS/NB,37.995429,-121.338655,,,,,,0
+3269,3269,Quail Lakes Dr & Grouse Run Ns/Nb,QUAIL LAKES & GROUSE RUN NS/NB,37.995476,-121.335607,,,,,,0
+3270,3270,Quail Lakes Dr & Passero Ns/Nb,QUAIL LAKES & PASSERO NS/NB,37.99745,-121.33207,,,,,,0
+3271,3271,Quail Lakes Dr & Tree Swallow Fs/Nb,QUAIL LAKES & TREE SWALLOW FS/NB,37.997364,-121.328587,,,,,,0
+3272,3272,Quail Lakes Dr & Pershing Ns/Nb,QUAIL LAKESR & PERSHING NS/NB,37.997892,-121.325696,,,,,,0
+3274,3274,Robinhood Dr & Stratford East Fs/Eb,,37.99971,-121.31972,,,,,,0
+3275,3275,Pacific Av & Robinhood Dr Fs/Sb,,38.00024,-121.31643,,,,,,0
+3277,3277,Robinhood Dr & Stratford East Ns/Wb,,37.9999,-121.31995,,,,,,0
+3278,3278,Robinhood Dr & Stratford West Ns/Wb,,37.999223,-121.322206,,,,,,0
+7074,7074,Robinhood Dr & Pershing Av Ns Wb,,37.998247,-121.325078,,,,,,0
+3279,3279,Quail Lakes Dr & Silver Creek Fs/Sb,,37.997537,-121.328169,,,,,,0
+3280,3280,Quail Lakes Dr & Passero Wy Fs/Sb,,37.99715,-121.33243,,,,,,0
+3281,3281,Quail Lakes Dr & Grouse Run Dr Nssb,,37.995704,-121.33523,,,,,,0
+3282,3282,Quail Lakes Dr & Meadow Lake Fs/Sb,,37.99524,-121.340409,,,,,,0
+3283,3283,Quail Lakes Dr & Grizzy Hollow Nssb,,37.993523,-121.342556,,,,,,0
+3284,3284,Quail Lakes Dr & Round Valley Ns/Sb,,37.989869,-121.340887,,,,,,0
+3285,3285,Quail Lakes Dr @ Shopping Ctr Sb,,37.986749,-121.340257,,,,,,0
+3286,3286,March Ln @ I-5 76 Gas Station Mb/Wb,,37.98457,-121.345403,,,,,,0
+3287,3287,March Ln & Deer Park Dr Ns/Wb,,37.984305,-121.350444,,,,,,0
+3298,3298,Pershing Av & Swain Rd Ns/Sb,,38.002648,-121.327262,,,,,,0
+3297,3297,Pershing Av & Douglas Rd Fs/Sb,,38.005221,-121.32836,,,,,,0
+3299,3299,Pershing Av & Longview Av Ns/Sb,,38.001087,-121.326608,,,,,,0
+3291,3291,Driftwood Pl & Brookside Rd Fs/Eb,,37.989524,-121.353507,,,,,,0
+3292,3292,Driftwood Pl & Bike Trail Mb/Eb,,37.989655,-121.349341,,,,,,0
+7085,7085,Holman Rd & Windflower Fs Nb,,38.010552,-121.273001,,,,,,0
+3323,3323,Hammertown & Montauban Av Fs/Wb,,38.016643,-121.289338,,,,,,0
+3355,3355,Fremont St & Eastland Plaza Mb/Eb,,37.961131,-121.269721,,,,,,0
+3356,3356,Fremont St & E St Fs/Eb,,37.963801,-121.260248,,,,,,0
+3357,3357,Fremont St & Filbert St Fs/Eb,,37.96552,-121.255956,,,,,,0
+7098,7098,Filbert St & Poplar St Fs Nb,,37.969207,-121.257783,,,,,,0
+3371,3371,Waterloo Rd & Filbert St Fs/Wb,,37.976792,-121.262215,,,,,,0
+7096,7096,Wilson Wy & Lindsay St Fs Sb,,37.959662,-121.27268,,,,,,0
+3363,3363,Sanguinetti Ln & Wilson Wy Ns/Sb,,37.983793,-121.27158,,,,,,0
+3364,3364,Funston Av & Jersey Av Fs/Sb,,37.981508,-121.270889,,,,,,0
+3389,3389,Fremont St & E St Fs/Wb,,37.963801,-121.260294,,,,,,0
+3385,3385,Mlk Blvd & San Joaquin St Fs/Wb,,37.939539,-121.283279,,,,,,0
+3391,3391,Fremont St & Golden Gate Av Fs/Eb,,37.967882,-121.25046,,,,,,0
+3451,3451,Herndon Pl & Blue Ridge  Fs/Sb,,38.006604,-121.356709,,,,,,0
+7115,7115,El Dorado & Hammer Ln Fs Nb,,38.021612,-121.315092,,,,,,0
+3522,3522,Wigwam Dr & Cherokee Rd Fs/Sb,,37.986478,-121.257235,,,,,,0
+7016,7016,Mt Diablo Av & Ryde Av Fs Eb,,37.956521,-121.332988,,,,,,0
+7021,7021,Mall Transfer Arr (South),W YOKUTS AV,37.997012,-121.313053,,,,,,0
+3633,3633,Cordova Ln & Kermit Ln Ns Eb,,38.01616,-121.30388,,,,,,0
+3639,3639,Holiday Dr & Yorkshire Dr Fs Sb,,38.002408,-121.298227,,,,,,0
+3644,3644,Pock Ln & 8th St Fs Sb,,37.935492,-121.247489,,,,,,0
+3648,3648,B & 8th St Fs Nb,,37.934462,-121.255572,,,,,,0
+3656,3656,Stanislaus & Miner Av Fs Sb,,37.95649,-121.28278,,,,,,0
+3660,3660,Pershing Av & Vine St Ns Nb,,37.961607,-121.31257,,,,,,0
+7144,7144,Wilson Wy & Jackson St Fs Sb,,37.94342,-121.26831,,,,,,0
+3678,3678,Pock Ln & 11th St Fs Nb,,37.932495,-121.246179,,,,,,0
+7146,7146,8th St & Nightingale Av Fs Eb,,37.936895,-121.244094,,,,,,0
+3624,3624,Holiday Dr & Holiday Ct Fs Nb,,38.003112,-121.298572,,,,,,0
+7150,7150,Main & Filbert St Fs Eb,MAIN ST & FILBERT ST,37.954761,-121.251505,,,,,,0
+3711,3711,Cardinal Av & Ardelle Av Ns Sb,CARDINAL AVE & ARDELLE AVE,37.962139,-121.22102,,,,,,0
+7155,7155,Dtc Weber Av Depart,,37.954641,-121.285414,,,,,,0
+7154,7154,Fremont St & Eastland Plaza Mb Wb,,37.961232,-121.270463,,,,,,0
+3728,3728,Hammer Ln & Kelley Dr Fs Eb,,38.021211,-121.355701,,,,,,0
+3730,3730,Hammer Ln & Kelley Dr Fs Wb,,38.021459,-121.35655,,,,,,0
+3729,3729,Hammer Ln & Richland Wy Eb/Fs,,38.021181,-121.351046,,,,,,0
+3737,3737,Don Av & Portola Av Fs Nb,,38.027014,-121.345441,,,,,,0
+3740,3740,A.G. Spanos Blvd & Thornton Rd Fs W,,38.054945,-121.35162,,,,,,0
+3741,3741,A.G. Spanos Blvd & Stoney Gorge Dr Ns Nb,,38.05386,-121.35765,,,,,,0
+3742,3742,A.G. Spanos Blvd & Banyon Dr Fs Sb,,38.051013,-121.358943,,,,,,0
+3743,3743,Iron Canyon Dr & Freshwater Pl Fs W,,38.049259,-121.365268,,,,,,0
+7177,7177,Scott Creek & Ridgeview Cir Fs Wb,,38.0561,-121.382449,,,,,,0
+3744,3744,Scott Creek & Trinity Pkwy Fs Wb,,38.053931,-121.375911,,,,,,0
+3745,3745,Mokelumne Cir & Hennessey Dr Fs Sb,,38.053143,-121.38323,,,,,,0
+3746,3746,Mokelumne Cir & Melones Wy Fs Sb,,38.050083,-121.385676,,,,,,0
+3747,3747,Mokelumne Cir & Havencrest Ct Fs Sb,,38.047785,-121.37957,,,,,,0
+3748,3748,Mokelumne Cir & Pasadena Fs Sb,,38.047486,-121.380001,,,,,,0
+7178,7178,Cosumnes Dr & Trinity Pkwy Ns Eb,,38.048265,-121.373447,,,,,,0
+3749,3749,Iron Canyon Dr & Freshwater Pl,,38.049227,-121.36488,,,,,,0
+3750,3750,A.G. Spanos Blvd & Banyon Dr Fs Sb,,38.05104,-121.35892,,,,,,0
+3751,3751,A.G. Spanos Blvd & Stoney Gorge Dr Fs Sb,,38.05397,-121.357,,,,,,0
+3752,3752,A.G. Spanos Blvd & Siskiyou  Ln Fs Sb,,38.054577,-121.353875,,,,,,0
+7326,7326,Thornton Rd & Whistler Wy Fs Sb,,38.048907,-121.351094,,,,,,0
+3784,3784,Don Av & Wagner Heights Rd Fs Sb,,38.033632,-121.345948,,,,,,0
+3785,3785,Don Av & Waudman Av Fs Sb,,38.029386,-121.345625,,,,,,0
+3786,3786,Don Av & Marseille Wy Fs Sb,,38.026343,-121.345576,,,,,,0
+7186,7186,Pershing Av & Ben Holt Dr Ns Sb,,38.008685,-121.329414,,,,,,0
+7193,7193,Commerce & Steamboat Landing Mb Sb,COMMERCE  ST & STEAMBOAT LANDING,37.952277,-121.292423,,,,,,0
+3808,3808,Lathrop Rd & Cambridge Dr Ns Eb,,37.826263,-121.28576,,,,,,0
+3829,3829,Michigan Av & Kirk Ns Wb,,37.965846,-121.342593,,,,,,0
+3835,3835,Old Hospital Cir & North Loop Rd,,37.887199,-121.282439,,,,,,0
+3859,3859,Lincoln St & Sonora St Fs Nb,,37.947597,-121.296473,,,,,,0
+3913,3913,Thornton Rd & Wagner Heights Rd Nb,,38.035826,-121.339268,,,,,,0
+7249,7249,Togninali Ln & 99 Frontage Fs Wb,,37.918237,-121.229262,,,,,,0
+3961,3961,Holman Rd & Snow Creek,,38.035096,-121.269517,,,,,,0
+3971,3971,East St & Carlton Fs Sb,,37.745886,-121.42122,,,,,,0
+7258,7258,Dtc C&s Dpt Mb Eb,,37.955371,-121.285804,,,,,,0
+7301,7301,Robinhood Dr & Pacific Arr Fs Eb,ROBINHOOD & PACIFIC ARR FS EB,38.000919,-121.314537,,,,,,0
+7304,7304,Myrtle St & Oro Ave Fs Wb,,37.965746,-121.238898,,,,,,0
+4001,4001,Hammer Ln & Alexandria Pl Fs Eb,,38.020982,-121.335385,,,,,,0
+4002,4002,Hammer Ln & Amber Wy Fs Eb,,38.020954,-121.331615,,,,,,0
+4003,4003,Hammer Ln & El Dorado St Fs Eb,,38.020994,-121.315154,,,,,,0
+4004,4004,Hammer Ln & Lan Ark Dr Fs Eb,,38.020784,-121.309208,,,,,,0
+4005,4005,Hammer Ln & Tam O Shanter Fs Eb,,38.020794,-121.300115,,,,,,0
+3978,3978,Hammer Ln & El Dorado St Fs Wb,,38.021071,-121.315605,,,,,,0
+3979,3979,Hammer Ln & Misty Ln Fs Wb,,38.02112,-121.332121,,,,,,0
+7526,7526,Holman Rd & Windflower Fs Sb,,38.009754,-121.273207,,,,,,0
+7263,7263,El Dorado & Iris Ave Fs Sb,,38.022183,-121.315532,,,,,,0
+7708,7708,Carolyn Weston & Manthey Fs Wb,,37.912259,-121.294702,,,,,,0
+7019,7019,West Lane & Stadium Fs Nb,,37.98582,-121.284361,,,,,,0
+7175,7175,Thornton Rd & Whistler Fs Nb,,38.049576,-121.35087,,,,,,0
+7784,7784,Mlk Blvd & French Camp Trpk Fseb,,37.938135,-121.289547,,,,,,0
+4008,4008,Oro & Guernsey Ave Ns Nb,ORO AVE & GUERNSEY AVE,37.952242,-121.233461,,,,,,0
+7766,7766,11th St & D St Ns Wb,,37.931347,-121.249937,,,,,,0
+7769,7769,10th St & Anne St Fs Wb,,37.930088,-121.261914,,,,,,0
+7765,7765,11th St & D St Fs Eb,,37.931278,-121.249778,,,,,,0
+7780,7780,Alpine & Sanguinetti Ln Fs Wb,,37.986739,-121.273324,,,,,,0
+7776,7776,Montauban Ave & March Ln Fs Nb,,38.004048,-121.284846,,,,,,0
+4020,4020,Montauban Ave & Swain Rd Fs Nb,,38.012948,-121.289956,,,,,,0
+7778,7778,Montauban Ave & Hammertown Dr Fs Nb,,38.016844,-121.288878,,,,,,0
+7779,7779,Montauban Ave & Hammertown Dr Fs Sb,,38.016219,-121.289069,,,,,,0
+4022,4022,Lorraine Ave & Amaretto Ns Sb,,38.013145,-121.28501,,,,,,0
+7777,7777,Bianchi Rd & March Ln Fs Sb,,38.002417,-121.284357,,,,,,0
+4023,4023,Alpine & El Pinal Dr Fs Eb,,37.986163,-121.274676,,,,,,0
+7787,7787,Cherokee Rd & Myran Av Ns Sb,CHEROKEE RD & MYRAN AVE,37.983628,-121.260411,,,,,,0
+7789,7789,Rosemarie Ln & Mcgaw St Fs Eb,,37.984785,-121.32797,,,,,,0
+7767,7767,99 Frontage & Marfargoa Rd Ns Nb,,37.91453,-121.226428,,,,,,0
+7791,7791,Meadow Ave & Hammer Ln Fs Sb,,38.020765,-121.345501,,,,,,0
+4045,4045,Don Av & Santiago Ave Fs Sb,DON AVE & SANTIAGO AVE FS SB,38.023094,-121.345585,,,,,,0
+4046,4046,Farm & Gertrude Franklin Hs,FARM RD & GERTRUDE AVE,37.969065,-121.238782,,,,,,0
+7792,7792,Farm & Gertrude Mb Eb,,37.968986,-121.238824,,,,,,0
+4047,4047,Hammer Ln & Montauban Fs Eb,,38.02078,-121.289212,,,,,,0
+4050,4050,Hammer Ln & Montauban Fs Wb,,38.021086,-121.290342,,,,,,0
+4048,4048,Hammer Ln & Alexandria Fs Wb,,38.021289,-121.336544,,,,,,0
+3982,3982,Park St & Center St Fs Wb,,37.959464,-121.293247,,,,,,0
+4009,4009,Oro & Guersey Ave Fs Sb,,37.952335,-121.233569,,,,,,0
+7794,7794,Morada Ln & Diamond Bar Mb Eb,,38.03697,-121.2617,,,,,,0
+3983,3983,Inspiration Dr & Vernaccia Ln Fs Wb,,38.030863,-121.261447,,,,,,0
+3984,3984,Inspiration Dr & Maranatha Dr Fs Wb,,38.03111,-121.264788,,,,,,0
+3985,3985,Inspiration Dr & Rieti Ln Fs Wb,,38.031538,-121.267605,,,,,,0
+7795,7795,Holman Rd & Inspiration Dr Fs Sb,,38.031154,-121.269856,,,,,,0
+7796,7796,Holman Rd & Inspiration Dr Fs Nb,,38.031888,-121.269454,,,,,,0
+3987,3987,March Ln & Weber Ranch Pkwy Fs Eb,,38.002716,-121.287511,,,,,,0
+4055,4055,Holman Rd & Bryant Fs Nb,,38.027528,-121.269428,,,,,,0
+3986,3986,March Ln & Weber Ranch Pkwy Fs Wb,,38.002709,-121.288769,,,,,,0
+4056,4056,Knickerbocker & Tamoshanter Fs Eb,,38.022529,-121.300011,,,,,,0
+7339,7339,Hammertown @ Kaiser Eb,,38.016552,-121.296345,,,,,,0
+4060,4060,Harlan Rd & Louise Av Fs Nb,HARLAN RD & LOUSIE AVE,37.812461,-121.291437,,,,,,0
+4061,4061,Harlan Rd & Louise Av Ns Sb,,37.812344,-121.291654,,,,,,0
+4062,4062,Grant Line & Macarthur Fs Wb,,37.754321,-121.415191,,,,,,0
+7803,7803,Harlan Rd & Lathrop Rd Fs Nb,,37.827101,-121.286724,,,,,,0
+3990,3990,West Lane & Hammer Lane Fs Sb,,38.020326,-121.295031,,,,,,0
+7807,7807,March Ln & Fred Russo Fs Eb,,38.005477,-121.275948,,,,,,0
+7808,7808,March Ln & Fred Russo Fs Wb,,38.005634,-121.27665,,,,,,0
+7810,7810,Main & Northgate Ns Nb,,37.81707,-121.21711,,,,,,0
+7811,7811,Main & Northgate Fs Sb,,37.8181,-121.21745,,,,,,0
+7814,7814,Davis Rd & Waterbury Dr Fs Sb,,38.054531,-121.333179,,,,,,0
+7813,7813,Davis Rd & St. Moritz Cir Fs Nb,,38.055209,-121.333067,,,,,,0
+4078,4078,O'DELL Ave & Downing Mb Nb,,37.91444,-121.281907,,,,,,0
+4077,4077,O'DELL Ave & Downing Ave Fs Sb,,37.913661,-121.281674,,,,,,0
+4079,4079,O'DELL Ave & Wait Ave Fs Sb,,37.911242,-121.280699,,,,,,0
+4081,4081,Davis Rd & Whistler Wy Fs Sb,,38.047812,-121.332523,,,,,,0
+4082,4082,Davis Rd & Theresa Cir Ns Nb,,38.037855,-121.331769,,,,,,0
+4083,4083,Davis Rd & Chaparral Wy Fs Nb,,38.040929,-121.331805,,,,,,0
+4084,4084,Davis Rd & Whistler Wy Fs Nb,,38.048417,-121.332384,,,,,,0
+4085,4085,Brookside Rd & March Ln Fs Nb,,37.985435,-121.35497,,,,,,0
+4086,4086,Rosemarie Ln & Crown Ave Ns Eb,,37.986122,-121.32249,,,,,,0
+4091,4091,Louise Ave & Cambridge Dr Fs Eb,,37.811697,-121.283219,,,,,,0
+4090,4090,Louise Ave & Cambridge Dr Fs Wb,,37.811889,-121.283975,,,,,,0
+7823,7823,Pacific Av & Yokuts Dep Nb Mb,,37.99769,-121.315085,,,,,,0
+7826,7826,Mt Diablo Av & Pixie Woods (1 Sch),MT DIABLO AVE & PIXIE WOODS,37.954906,-121.342598,,,,,,0
+4102,4102,Harding Wy & Golden Gate Ave Ns Eb,,37.974853,-121.255121,,,,,,0
+4105,4105,San Joaquin St & Park St Fs Sb,,37.959707,-121.289066,,,,,,0
+4109,4109,Magnolia St & Aurora St,,37.965216,-121.283444,,,,,,0
+7847,7847,Mall Transfer Metro Hopper Dep,,37.996945,-121.31255,,,,,,0
+4118,4118,Los Molinas & Goya Ns Sb,,38.018571,-121.307185,,,,,,0
+7848,7848,Sutter Gould Medical Center,SUTTER GOULD MED CTR,38.021797,-121.346268,,,,,,0
+7850,7850,Tracy Multi-Modal Center,,37.734331,-121.424698,,,,,,0
+7851,7851,East St & Tenth Street Ns Sb,,37.73833,-121.42124,,,,,,0
+7901,7901,Airport Wy & 8th St Arr Fs Nb,,37.932009,-121.266953,,,,,,0
+7903,7903,Aurora St & Weber Ave Ns Sb,,37.956339,-121.279871,,,,,,0
+7904,7904,Aurora St & Channel St Fs Nb,,37.956825,-121.279945,,,,,,0
+7905,7905,Airport Wy & Sonora St Fs Sb,,37.951198,-121.273133,,,,,,0
+7906,7906,Airport Wy & Sonora St Fs Nb,,37.951624,-121.273079,,,,,,0
+7911,7911,B & 9th St Fs Sb,,37.932634,-121.254956,,,,,,0
+4145,4145,Pacific Av & Walnut St Fs Nb,,37.968376,-121.298578,,,,,,0
+4146,4146,Pacific Av & Walnut St Fs Sb,,37.968752,-121.298894,,,,,,0
+4142,4142,B & Gerald Fs Sb,,37.927523,-121.252836,,,,,,0
+4143,4143,B & Ralph Ave Ns Sb,,37.92324,-121.2512,,,,,,0
+4157,4157,Lever Blvd & Hawaii St Fs Wb,,37.923259,-121.300775,,,,,,0
+4158,4158,Lever Blvd & Donati Cir Fs Wb,,37.923411,-121.308108,,,,,,0
+4161,4161,Hickock Dr & Pawnee Wy Fs Sb,,38.037976,-121.33612,,,,,,0
+4160,4160,Hickock Dr & Chaparral Wy Fs Sb,,38.041029,-121.334018,,,,,,0
+4164,4164,Ponce De Leon & Santa Maria Fs Eb,,38.030057,-121.321591,,,,,,0
+4165,4165,Ponce De Leon & Santa Paula Fs Eb,,38.030069,-121.319727,,,,,,0
+4171,4171,Davis Rd & Goldenoak Wy Fs Sb,,38.031462,-121.33189,,,,,,0
+7916,7916,8th St & Pajaro Wy Fs Eb,,37.926635,-121.310008,,,,,,0
+4068,4068,Main & Shasta Ave Fs Eb,,37.954544,-121.247541,,,,,,0
+4067,4067,Main & David Ave Fs Wb,,37.954688,-121.247206,,,,,,0
+4129,4129,March Ln & Feather River Fs Eb,,37.984163,-121.347178,,,,,,0
+7923,7923,Mcgaw St & Rose Marie Fs Nb,,37.985021,-121.32836,,,,,,0
+4179,4179,Downing & Mourfield Ns Wb,DOWNING AVE & MOURFIELD AVE,37.913826,-121.284599,,,,,,0
+4183,4183,Dry Creek Wy & Diablo Creek Ns Nb,,37.925145,-121.308985,,,,,,0
+4185,4185,Bianchi Rd & Ebbet Pl Fs Wb,,37.990858,-121.306351,,,,,,0
+4186,4186,Bianchi Rd & Claremont Ave Ns Eb,,37.991341,-121.305634,,,,,,0
+4120,4120,Cherokee Rd & F St Fs Eb,,37.977917,-121.264472,,,,,,0
+9901,9901,Lathrop Park and Ride,,37.82415,-121.288709,,,,,,0
+4189,4189,Mlk Blvd & El Dorado Fs Eb,,37.9389,-121.28564,,,,,,0
+4190,4190,Mlk Blvd & Sutter St Fs Eb,,37.939543,-121.281821,,,,,,0
+4191,4191,Davis Rd & Goldenoak Wy Fs Nb,,38.031998,-121.331715,,,,,,0
+4192,4192,Davis Rd & Wagner Heights Rd Ns Sb,,38.035935,-121.331937,,,,,,0
+4193,4193,Airport Wy @ Fairgrounds Ent Nb,,37.938006,-121.269255,,,,,,0
+4194,4194,Alpine & Bonnie Ln Ns/Eb,,37.978598,-121.304729,,,,,,0
+4195,4195,8th St & Lever Blvd Fs/Eb,,37.926571,-121.297007,,,,,,0
+4196,4196,Waterloo Rd & Report Ave Eb/Fs,,37.981883,-121.254149,,,,,,0
+4197,4197,Waterloo Rd & Report Ave Wb/Fs,,37.981683,-121.254846,,,,,,0
+4198,4198,Mathews Rd & Wolfe Rd Wb/Ns,,37.882705,-121.301571,,,,,,0
+4199,4199,East St & Highland Ave Sb/Ns,,37.7424,-121.421236,,,,,,0
+4200,4200,Grant Line Rd & Parker Ave Fs/Wb,,37.754301,-121.431111,,,,,,0
+4201,4201,Grant Line Rd & Lincoln Blvd Fs/Wb,,37.754267,-121.443882,,,,,,0
+4202,4202,Grant Line Rd & Lincoln Blvd Fseb,,37.754054,-121.443172,,,,,,0
+4203,4203,Grant Line Rd & Bessie Ave Fs/Eb,,37.754084,-121.432943,,,,,,0
+4206,4206,Alpine & El Dorado St Fs Wb,,37.9799,-121.30008,,,,,,0
+4205,4205,Oak St & El Dorado St Fs Eb,,37.958683,-121.291139,,,,,,0
+7932,7932,Hammer Ln & Kathleen Dr Fs Eb,,38.020782,-121.296487,,,,,,0
+4207,4207,Swain Rd & El Dorado St Fs Eb,,38.007348,-121.307869,,,,,,0
+4208,4208,Swain Rd & Kermit Lane Fs Eb,,38.009383,-121.299722,,,,,,0
+4209,4209,West Lane & Morada Ln Ns Nb,,38.03634,-121.294823,,,,,,0
+4210,4210,Hutchins St & Century Blvd Ns Nb,,38.106721,-121.278708,,,,,,0
+4211,4211,Hutchins St & Century Blvd Fs Sb,,38.107205,-121.278987,,,,,,0
+4212,4212,West Lane & Morada Ln Ns Sb,,38.03879,-121.295297,,,,,,0
+4221,4221,William Moss Bl & Zeally Ln Fs Eb,WILLIAM MODD BLVD & ZEALLY LN,37.907931,-121.3151,,,,,,0
+4222,4222,William Moss Bl & Sachetti Cir Mbeb,,37.906471,-121.311801,,,,,,0
+4223,4223,William Moss Bl & Violet Cheng Nseb,,37.904778,-121.306438,,,,,,0
+4224,4224,Fremont St & Van Buren St Fs Eb,,37.956653,-121.297292,,,,,,0
+4213,4213,Swain Rd & Kermit Ln Ns Wb,,38.009572,-121.299799,,,,,,0
+4214,4214,Tam O'SHANTER Dr & Swain Rd Ns Sb,,38.010694,-121.296469,,,,,,0
+4215,4215,Tam O'SHANTER Dr & Swain Rd Fs Nb,,38.010676,-121.296263,,,,,,0
+4225,4225,Swain Rd & Cresenda Ave Ns Wb,,38.006966,-121.310212,,,,,,0
+4226,4226,Lorraine Ave & Hammer Ln Ns Nb,,38.020908,-121.283277,,,,,,0
+4230,4230,Holman Rd & Etcheverry Fs Sb,,38.0042,-121.271935,,,,,,0
+7950,7950,Manteca Transit Center Arr,,37.794374,-121.214285,,,,,,0
+7952,7952,Colony Rd & Brady Ln Fs Sb,,37.753925,-121.136512,,,,,,0
+4231,4231,Grouse Run Dr & March Ln Fs Nb,,37.987606,-121.329296,,,,,,0
+4232,4232,Grouse Run Dr & Covey Crk Cir Fsnb,,37.993714,-121.333856,,,,,,0
+4233,4233,Grouse Run Dr & Quail Lakes Dr Fssb,,37.99538,-121.33542,,,,,,0
+4234,4234,Grouse Run Dr & March Ln Ns Sb,,37.98776,-121.32953,,,,,,0
+4236,4236,8th St & D St Eb Fs,,37.934937,-121.251065,,,,,,0
+4238,4238,Maranatha Dr & Kirsten Dr Fs Nb,,38.028509,-121.264058,,,,,,0
+4240,4240,Wilma Ave & Hughes Ln Fs Sb,,37.742008,-121.135596,,,,,,0
+4241,4241,Main & Nikkel Ln Fs Wb,,37.739588,-121.139613,,,,,,0
+4242,4242,Jack Tone Rd & Canal Blvd Fs Eb,,37.747531,-121.142182,,,,,,0
+4245,4245,Mcdougald Blvd & Ishi Goto St Fs Nb,,37.90973,-121.297085,,,,,,0
+4244,4244,Mcdougald Blvd & Bess Pl Fs Sb,,37.904734,-121.295536,,,,,,0
+4243,4243,Mcdougald Blvd & Ishi Goto St Fs Sb,,37.909497,-121.297175,,,,,,0
+4247,4247,8th St & D St Ns Wb,,37.935038,-121.25139,,,,,,0
+4246,4246,Colony Rd & Goodwin Dr Fs Eb,,37.75391,-121.134219,,,,,,0
+4248,4248,Mission Rd & Bristol Ave,,37.969778,-121.324221,,,,,,0
+4249,4249,Bryant Dr & Lott St Fs Wb,,38.027018,-121.266135,,,,,,0
+4251,4251,Royal Oaks Dr & Royal Park Dr Fs Wb,,38.036886,-121.330709,,,,,,0
+4252,4252,Royal Oaks Dr & Lower Sac Rd Fs Wb,,38.036929,-121.323152,,,,,,0
+7953,7953,East St & Grant Line Rd Ns Nb,,37.754176,-121.421223,,,,,,0
+4253,4253,East St & Highland Mb Nb,,37.742028,-121.421109,,,,,,0
+4254,4254,Wilcox & Waterloo Ns Nb,,37.988192,-121.244253,,,,,,0
+7954,7954,Hazelton Ave & Airport Fs Wb,,37.949398,-121.273486,,,,,,0
+4255,4255,Hazelton Ave & Aurora St Fs Wb,,37.948614,-121.278017,,,,,,0
+4256,4256,Airport Wy & Anderson St Nb Fs,,37.944884,-121.271225,,,,,,0
+4257,4257,California St & Ellis Street Sb Fs,,37.976695,-121.291634,,,,,,0
+4259,4259,Wilson Wy @ Flea Market,,37.992074,-121.26616,,,,,,0
+4119,4119,Lincoln St & 6th St Fs Sb,,37.929582,-121.290853,,,,,,0
+4260,4260,8th St & Pock Ns Wb,,37.935937,-121.247598,,,,,,0
+4261,4261,Hwy 99 Frontage @ Boeing Wy Fs Sb,,37.911487,-121.225932,,,,,,0
+4100,4100,99 Frontage & Carpenter Rd Fs Nb,,37.924086,-121.230337,,,,,,0
+4263,4263,B St & Industrial Dr Fs Nb,S B ST,37.912302,-121.247009,,,,,,0
+4262,4262,B St & Industrial Fs Sb,,37.91177,-121.247003,,,,,,0
+4265,4265,Ralph & B Ns Eb,,37.922722,-121.251471,,,,,,0
+4266,4266,Swain & I-5 Mb Wb,,38.000108,-121.349897,,,,,,0
+4267,4267,Grant Line & N. Chrisman Rd Fs Eb,,37.754073,-121.39776,,,,,,0
+4268,4268,Grant Line & Skylark Fs Eb,,37.754097,-121.40618,,,,,,0
+4269,4269,Grant Line & Skylark Fs Wb,,37.754328,-121.407805,,,,,,0
+4270,4270,Grant Line & N. Chrisman Rd Fs Wb,,37.75431,-121.398766,,,,,,0
+4272,4272,29th St & R St,,38.564976,-121.471636,,,,,,0
+4273,4273,30th St & R St,,38.564187,-121.470399,,,,,,0
+4271,4271,Mathews Rd & Migrant Center Eb,,37.88231,-121.286357,,,,,,0
+4274,4274,Mlk Blvd & French Camp Turnpike Ns Eb,,37.938126,-121.290168,,,,,,0
+4275,4275,Mlk Blvd & San Joaquin Fs Eb,,37.939395,-121.283403,,,,,,0
+4276,4276,Mariposa & Farmington Fs,,37.938747,-121.24383,,,,,,0
+4277,4277,Mlk Blvd & B Street Fs W,,37.943895,-121.259625,,,,,,0
+4278,4278,French Camp Turnpike & Mlk Blvd Fs Sb,,37.937742,-121.290455,,,,,,0
+4279,4279,8th Street & French Camp Turnpike Fs Wb,,37.926999,-121.293125,,,,,,0
+4280,4280,French Camp Turnpike & 7th Street Fs Nb,,37.927704,-121.293424,,,,,,0
+4282,4282,Pershing & Marco Polo Drive Ns Nb,,37.992339,-121.323122,,,,,,0
+4283,4283,Pershing & Venetian Drive Fs Nb,,37.996274,-121.324675,,,,,,0
+4281,4281,Kirk & Alpine Fs Sb,,37.96862,-121.343712,,,,,,0
+4284,4284,Uts,S UNION ST,37.93908,-121.272265,,,,,,0

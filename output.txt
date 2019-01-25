@@ -1,0 +1,107 @@
+3073,3073,El Dorado & Hospital Rd NB,,37.886086,-121.276264,,,,,,0
+3074,3074,El Dorado & French Camp NB,,37.889301,-121.276301,,,,,,0
+3080,3080,Odell & Horton NB,,37.921401,-121.284826,,,,,,0
+3082,3082,Mosswood & El Dorado NB,,37.924283,-121.281523,,,,,,0
+3083,3083,El Dorado & Ninth St NB,,37.92699,-121.28185,,,,,,0
+3085,3085,San Joaquin St & 6th NB,,37.932058,-121.281378,,,,,,0
+3087,3087,San Joaquin St & 2nd NB,,37.936747,-121.282631,,,,,,0
+3088,3088,San Joaquin St & Anderson NB,,37.943143,-121.284383,,,,,,0
+3090,3090,San Joaquin St & Hazelton NB,,37.947491,-121.285539,,,,,,0
+3091,3091,Alvarado & Alpine NB,,37.983732,-121.289608,,,,,,0
+3092,3092,Alvarado & Fulton NB,,37.985467,-121.290332,,,,,,0
+3100,3100,Claremont & Gold Run  NB,,37.991856,-121.30608,,,,,,0
+3101,3101,Claremont & Pardee NB,,37.993525,-121.308054,,,,,,0
+3456,3456,Inglewood Av & Benjamin Holt NB,,38.011785,-121.317412,,,,,,0
+3459,3459,El Dorado & Mission Park NB,,38.01945,-121.315188,,,,,,0
+3461,3461,El Dorado & Martinique NB,,38.028902,-121.316163,,,,,,0
+3477,3477,Hickock Dr & Pawnee NB,,38.0382,-121.335917,,,,,,0
+3478,3478,Hickock Dr & Cheyenne NB,,38.040072,-121.335013,,,,,,0
+3455,3455,Inglewood Av & Glendora Av NB,,38.008449,-121.315753,,,,,,0
+3339,3339,Wilson Wy & Park (Eastland Plz.) NB,,37.963128,-121.273471,,,,,,0
+3340,3340,Wilson Wy & Poplar St NB,,37.964545,-121.273876,,,,,,0
+3341,3341,Wilson Wy & Roosevelt St NB,,37.967161,-121.274542,,,,,,0
+3351,3351,Golden Gate  & John St NB,,37.977001,-121.255247,,,,,,0
+3344,3344,Funston Av & Bradford St NB,,37.974534,-121.27446,,,,,,0
+3338,3338,Stanislaus & Miner NB,,37.95686,-121.28263,,,,,,0
+3550,3550,Stanislaus & Lafayette NB,,37.95103,-121.28106,,,,,,0
+3552,3552,Stanislaus & Main NB,,37.953718,-121.281797,,,,,,0
+3558,3558,El Dorado & Acacia NB,,37.96295,-121.292498,,,,,,0
+3559,3559,El Dorado & Willow NB,,37.966376,-121.293425,,,,,,0
+3561,3561,El Dorado & Adams NB,,37.974059,-121.296522,,,,,,0
+3563,3563,El Dorado & Alpine NB,,37.980562,-121.299424,,,,,,0
+3564,3564,El Dorado & Fulton NB,EL DORADO ST & FULTON ST,37.983193,-121.300488,,,,,,0
+3567,3567,El Dorado & Swain NB,,38.007532,-121.308567,,,,,,0
+3545,3545,Airport Wy & 6th NB,,37.93459,-121.26794,,,,,,0
+3135,3135,Lincoln St & 7th NB,,37.928526,-121.290379,,,,,,0
+3136,3136,Lincoln St & Kohler NB,,37.930922,-121.291678,,,,,,0
+3137,3137,Lincoln St & 4th NB,,37.932163,-121.292086,,,,,,0
+3139,3139,Lincoln St & Jackson NB,,37.939416,-121.294277,,,,,,0
+3411,3411,Pacific Av & Robinhood Dr NB,,38.00042,-121.31613,,,,,,0
+3503,3503,Cumberland & Swain NB,,37.999984,-121.358151,,,,,,0
+3504,3504,Cumberland & S. Monitor Cir NB,CUMBERLAND PL & MONITOR CI S,38.001327,-121.359537,,,,,,0
+3505,3505,Cumberland & Harpers Ferry NB,,38.003382,-121.360989,,,,,,0
+3309,3309,Tam O'SHANTER Dr @ the Pines NB,,38.014061,-121.298192,,,,,,0
+3310,3310,Tam O'SHANTER Dr & Hammertown NB,,38.015456,-121.298917,,,,,,0
+3097,3097,Kentfield & Surrey Lane NB,,37.99402,-121.30133,,,,,,0
+3422,3422,Plymouth Rd & Bridgeport Cir NB,,38.011972,-121.352486,,,,,,0
+3423,3423,Plymouth Dr & Kelley Dr  NB,PLYMOUTH DR & KELLEY DR NS/NB,38.014503,-121.352379,,,,,,0
+3425,3425,Kelley Dr & Hillview Av NB,,38.017823,-121.354995,,,,,,0
+3424,3424,Kelley Dr & Warwick Ct NB,,38.01573,-121.354262,,,,,,0
+3342,3342,Wilson Wy & Pinchot St NB,,37.968833,-121.275046,,,,,,0
+3548,3548,Stanislaus & Jackson NB,,37.942384,-121.278723,,,,,,0
+3549,3549,Stanislaus & Worth NB,,37.94526,-121.27947,,,,,,0
+3347,3347,Sanguinetti Ln & Wilson Wy NB,,37.983098,-121.271121,,,,,,0
+3560,3560,El Dorado & Wyandotte NB,,37.971475,-121.29534,,,,,,0
+3348,3348,Wilson Wy & E St NB,,37.985271,-121.270055,,,,,,0
+3562,3562,El Dorado & Noble NB,,37.975946,-121.297533,,,,,,0
+3565,3565,El Dorado & Churchill NB,EL DORADO ST & CHURCH ST,37.986566,-121.301867,,,,,,0
+3332,3332,Kentfield & Surrey Lane NB,,37.99466,-121.30149,,,,,,0
+3353,3353,Filbert St & Oak NB,,37.966274,-121.256535,,,,,,0
+3369,3369,Filbert St & Roosevelt NB,,37.971625,-121.258756,,,,,,0
+3314,3314,Lorraine Ave & Homewood Dr NB,,38.017247,-121.284451,,,,,,0
+3515,3515,Airport Wy & Park St NB,,37.962535,-121.276028,,,,,,0
+3516,3516,Airport Wy & Roosevelt St NB,,37.96711,-121.277294,,,,,,0
+3520,3520,Cherokee Rd & Waterloo Rd NB,,37.974028,-121.267291,,,,,,0
+3521,3521,Cherokee Rd & Myran Ave NB,,37.983609,-121.260226,,,,,,0
+3482,3482,Thornton Rd & A.G. Spanos Blvd NB,,38.046272,-121.350457,,,,,,0
+3409,3409,Stockton St & Gabriel Ct NB,,37.928427,-121.29981,,,,,,0
+3408,3408,Stockton St & 8th St NB,,37.927043,-121.299805,,,,,,0
+3532,3532,Holman Rd & Wakeman Dr NB,,38.024353,-121.270916,,,,,,0
+3402,3402,Houston Av & Sunol Valley  NB,,37.921191,-121.314302,,,,,,0
+3403,3403,Houston Av & Tilden Park St NB,HOUSTON ST & VAN BUREN ST,37.923696,-121.31966,,,,,,0
+3410,3410,Stockton St & 5th St NB,,37.931159,-121.299812,,,,,,0
+3421,3421,Plymouth Rd  & Crittenden Ct NB,,38.009429,-121.35168,,,,,,0
+3517,3517,Airport Wy & Harding Wy NB,,37.969981,-121.278054,,,,,,0
+3530,3530,Holman Rd & Etcheverry NB,,38.004781,-121.271784,,,,,,0
+3005,3005,Madison St & Flora St NB,,37.95992,-121.29576,,,,,,0
+3012,3012,Pacific Av & Bianchi Rd NB,,37.9877,-121.3111,,,,,,0
+3013,3013,Pacific Av & March Ln NB,,37.991965,-121.312774,,,,,,0
+3024,3024,San Joaquin St & Lafayette St NB,,37.95043,-121.28635,,,,,,0
+3026,3026,San Joaquin St & Main St NB,,37.953302,-121.287151,,,,,,0
+3027,3027,California St & Fremont St NB,,37.958453,-121.285789,,,,,,0
+3028,3028,California St & Oak St NB,,37.959455,-121.286065,,,,,,0
+3029,3029,California St & Flora St NB,,37.96176,-121.28667,,,,,,0
+3030,3030,California St & Magnolia St NB,,37.96484,-121.287556,,,,,,0
+3032,3032,California St & Wyandotte St NB,,37.973006,-121.289902,,,,,,0
+3034,3034,California St & Sonoma Av NB,,37.980959,-121.293167,,,,,,0
+3035,3035,West Lane & Enterprise St NB,,37.990113,-121.285936,,,,,,0
+3037,3037,West Lane & March Ln NB,,38.002591,-121.290742,,,,,,0
+3038,3038,West Lane & Atchenson St NB,,38.006338,-121.292235,,,,,,0
+3039,3039,West Lane & Swain Rd NB,,38.011454,-121.294111,,,,,,0
+3072,3072,California St & Arcade St NB,,37.978222,-121.292166,,,,,,0
+3146,3146,Lincoln St & Washington St NB,,37.949895,-121.297121,,,,,,0
+3165,3165,San Joaquin St & Oak St NB,,37.95931,-121.28876,,,,,,0
+3174,3174,Pershing Av & Elm St NB,,37.964756,-121.313404,,,,,,0
+3186,3186,Pershing Av & Brookside Rd NB,,37.982239,-121.318946,,,,,,0
+3244,3244,Occidental Av & Mt Diablo Av NB,,37.955786,-121.339779,,,,,,0
+3245,3245,Occidental Av & Toyon Dr NB,,37.958234,-121.340427,,,,,,0
+3261,3261,Pacific Av & Knoles Wy NB,,37.981072,-121.307538,,,,,,0
+3264,3264,Quail Lakes Dr & March Ln NB,,37.985253,-121.33978,,,,,,0
+3265,3265,Quail Lakes Dr & Mallard Creek NB,QUAIL LAKES & MALLARD CREEK NS/NB,37.988584,-121.340187,,,,,,0
+3266,3266,Quail Lakes Dr & Round Valley NB,QUAIL LAKES  & ROUND VALLEY NS/NB,37.989973,-121.340676,,,,,,0
+3267,3267,Quail Lakes Dr & Grizzly Hollow NB,QUAIL LAKES & GRIZZLY HOLLOW FS/NB,37.994181,-121.342035,,,,,,0
+3268,3268,Quail Lakes Dr & Pheasant Run NB,QUAIL LAKES & PHEASANT RUN FS/NB,37.995429,-121.338655,,,,,,0
+3269,3269,Quail Lakes Dr & Grouse Run NB,QUAIL LAKES & GROUSE RUN NS/NB,37.995476,-121.335607,,,,,,0
+3270,3270,Quail Lakes Dr & Passero NB,QUAIL LAKES & PASSERO NS/NB,37.99745,-121.33207,,,,,,0
+3271,3271,Quail Lakes Dr & Tree Swallow NB,QUAIL LAKES & TREE SWALLOW FS/NB,37.997364,-121.328587,,,,,,0
+3272,3272,Quail Lakes Dr & Pershing NB,QUAIL LAKESR & PERSHING NS/NB,37.997892,-121.325696,,,,,,0
